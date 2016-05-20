@@ -32,3 +32,11 @@ was used on the files in the example/ directory in order to produce the results
 
     example/apc_2012_2013_results.csv_comparison_processed_apc_2012_2013.csv.csv
     example/apc_2012_2013_results.csv_suspicious_processed_apc_2012_2013.csv.csv
+
+# Configuration
+
+The script supports one config option at the moment, WHITELIST_COLUMNS. If it's set, then all column names which are not in that list will be deleted from the 2 CSVs to be compared prior to comparison.
+
+You can set settings for all files in settings.json in the directory of the script.
+
+More usefully, you can set per-csv settings by saving them as <original_filename>.json . So if comparing `1.csv` to `2.csv` with `--original-file apc_2012_2013.csv`, you could write a specific whitelist in `apc_2012_2013.csv.json` in the script's directory. That particular whitelist is actually provided.
