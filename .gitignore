@@ -63,6 +63,7 @@ target/
 
 # Any CSVs lying around
 *.csv
+!example/*.csv
 
 # PyCharm
 .idea

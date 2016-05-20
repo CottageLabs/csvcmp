@@ -1,0 +1,592 @@
+Row #,apc_2012_2013_results.csv PMCID,processed_apc_2012_2013.csv PMCID,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+14,,PMC4538784,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+24,,PMC4541552,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,,PMC4541553,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+
+Row #,apc_2012_2013_results.csv PMID,processed_apc_2012_2013.csv PMID,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+14,unknown,26290618,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+24,unknown,26321761,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,unknown,26321762,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,unknown,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+28,,24941737,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+201,24524173,23409763,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,24524172,24524173,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,,23873369,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv DOI,processed_apc_2012_2013.csv DOI,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+2,10.1057/biosoc.2013.3,10.1057/9781137377029,PMC3671369,,10.1057/9781137377029,"Health Economists, Tobacco Control and International Development: On the Economisation of Global Health beyond Neoliberal Structural Adjustment Policies"
+16,10.1371/journal.pntd.0001992,10.1017/mdh.2013.17,PMC3542187,,10.1017/mdh.2013.17,The Research Council System and The Politics of Medical and Agricultural Research for the British Colonial Empire 1940-1952
+59,10.1192/bjp.bp.112.118018,10.1186/1471-2458-13-152,PMC3613719,,10.1186/1471-2458-13-152,Effectiveness of alcohol brief intervention delivered by community pharmacists: study protocol of a two-arm randomised controlled trial.
+201,none,10.2174/1568026611313010004,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,none,,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,10.1111/j.1548-1425.2012.01393.x,10.1387/ijdb.130046jw,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Publisher,processed_apc_2012_2013.csv Publisher,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+2,Nature Publishing Group,"
+",PMC3671369,,10.1057/9781137377029,"Health Economists, Tobacco Control and International Development: On the Economisation of Global Health beyond Neoliberal Structural Adjustment Policies"
+3,SAGE Publications,Sage,PMC3724273,,10.1177/0952695112468526,The pursuit of happiness: the social and scientific origins of Hans Selye’s natural philosophy of life’
+4,SAGE Publications,Sage,PMC3627513,,10.1177/0952695112470350,War on fear: Solly Zuckerman and civilian nerve in World War II
+5,American Association for the Advancement of Science (AAAS),American Association for the Advancement of Science,none,,10.1126/science.1228160,"High coverage of ART associated with decline in risk of HIV acquisition in rural KwaZulu-Natal, South Africa"
+6,American Association for the Advancement of Science (AAAS),American Association for the Advancement of Science,PMC3860268,,10.1126/science.1230413,Increase in adult life expectancy
+7,The American Association of Immunologists,American Association of Immunologists,PMC3672848,,10.4049/jimmunol.1201510,Mitochondrial superoxide generation enhances P2X7R-mediated loss of cell surface CD62L on naive human CD4+ T lymphocytes.
+8,The American Association of Immunologists,American Association of Immunologists,PMC3549224,,10.4049/jimmunol.1202438,Chronic Exposure to Plasmodium falciparum Is Associated with Phenotypic Evidence of B and T Cell Exhaustion
+9,The American Association of Immunologists,American Association of Immunologists,PMC3619528,,10.4049/jimmunol.1202611,Candida albicans primes the Toll-like receptor cytokine responses through a dectin-1/Ref-1-mediated pathway
+10,The American Association of Immunologists,American Association of Immunologists,PMC3607403,,10.4049/jimmunol.1203389,GRB2-Mediated Recruitment of THEMIS to LAT Is Essential for Thymocyte Development
+11,SAGE Publications,Sage,PMC3627511,,10.1177/0952695112471658,The invention of the psychosocial: an introduction
+12,SAGE Publications,Sage,PMC3652708,,10.1177/0952695112473619,Making the cut: the production of 'self-harm' in post-1945 Anglo-Saxon psychiatry
+13,SAGE Publications,Sage,PMC3757918,,10.1177/0952695113484320,How autism became autism: the radical transformation of a central concept of child development in Britain
+14,SAGE Publications,Sage,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+15,Cambridge University Press (CUP),Cambridge University Press,PMC3865968,,10.1017/mdh.2013.63,International health and the limits of its global influence: Bhutan and the worldwide smallpox eradication
+16,Public Library of Science (PLoS),Cambridge University Press,PMC3542187,,10.1017/mdh.2013.17,The Research Council System and The Politics of Medical and Agricultural Research for the British Colonial Empire 1940-1952
+17,Cambridge University Press (CUP),Cambridge University Press,PMC3865946,,10.1017/mdh.2013.20,"A Textbook Pattern? Malarai Eradication and Control, Jamaica 1910-1965"
+18,Cambridge University Press (CUP),Cambridge University Press,PMC3483757,,10.1017/mdh.2012.30,Mrs Killer and Dr Crook: birth attendants and birth outcomes in early twentieth century Derbyshire
+19,Cambridge University Press (CUP),Cambridge University Press,PMC3566749,,10.1017/mdh.2012.81,"I've Never Found Doctors to be a Difficult Bunch': Doctors, Managers and NHS Reorganisations in Manchester and Salford, 1948-2007"
+20,International Union of Crystallography (IUCr),International Union of Crystallography,PMC3606566,,10.1107/S1744309113002352,Structure of Pseudomonas aeruginosa inosine 5'-monophosphate dehydrogenase
+21,International Union of Crystallography (IUCr),International Union of Crystallography,PMC3668577,,10.1107/S174430911301292X,Structure of diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase from Acinetobacter baumannii.
+22,American Chemical Society (ACS),American Chemical Society,none,23072351,10.1021/ac302223s,Amphipathic polymers facilitate the study of functional membrane in the gas phase
+23,International Union of Crystallography (IUCr),International Union of Crystallography,PMC3374517,,10.1107/S1744309112010330,Crystallization and preliminary crystallographic analysis of the major capsid proteins VP16 and VP17 of bacteriophage P23-77
+24,Cambridge University Press (CUP),Cambridge University Press,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,Cambridge University Press (CUP),Cambridge University Press,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,Cambridge University Press (CUP),Cambridge University Press,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+27,Cambridge University Press (CUP),Cambridge University Press,PMC3948080,23158229,10.1017/S1355617712000768,Effects of Maternal Worm Infections and Anthelminthic Treatment during Pregnancy on Infant Motor and Neurocognitive Functioning
+28,Cambridge University Press (CUP),Cambridge University Press,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+29,SAGE Publications,Sage,PMC3930469,,10.1177/1363459313476966,Re-valuing donor and recipient bodies in the globalised blood economy: transitions in public policy on blood safety in the UK
+30,American Chemical Society (ACS),American Chemical Society,none,20146481,10.1021/jm901827x,Toward biophysical probes for the 5-HT3 receptor: structure-activity relationship study of granisetron derivatives
+31,Springer Nature,BioMed Central,PMC3766112,,10.1186/1756-0500-6-344,"Prevalence of schistosome antibodies and hepatosplenic signs and symptoms among patients from Kaoma, Western Province, Zambia"
+32,American Psychological Association (APA),American Psychological Association,PMC3444173,,10.1037/a0027006,Investigating cognitive pathways to psychopathology: predicting depression and posttraumatic stress disorder from early responses after assault
+33,Springer Nature,BioMed Central,PMC3348006,,10.1186/1478-7547-10-5,Cost and cost effectiveness of long-lasting insecticide-treated bed nets - a model-based analysis
+34,Elsevier BV,Elsevier,PMC3744815,,10.1016/j.ejmg.2013.05.001,The internet is parents' main source of information about psychiatric manifestationsof 22q11.2 deletion syndrome
+35,Springer Nature,BioMed Central,PMC3750443,,10.1186/1472-6939-14-27,Taking ethical photos of children for medical and research purposes in low-resource settings: an exploratory qualitative study
+36,Springer Nature,BioMed Central,PMC3664635,,10.1186/1472-6963-13-195,Community groups as 'critical enablers' of the HIV response in Zimbabwe
+37,Springer Nature,BioMed Central,PMC3312863,,10.1186/1472-6963-12-42,The development of a lay health worker delivered collaborative community based intervention for people with schizophrenia in India
+38,Springer Nature,BioMed Central,PMC3765690,,10.1186/1742-6405-10-20,Collective Patient behaviours derailing ART rool-out in KwaZulu-Natal: Perspectives of Health Care Providers
+39,Springer Science + Business Media,Springer,none,22879016,10.1007/978-1-4614-4989-8_10,Normobaric hyperoxia does not change optical scattering or pathlength but does increase oxidised cytochrome C oxidase concentration in patients with brain injury
+40,Springer Science + Business Media,Springer,none,22879019,10.1007/978-1-4614-4989-8_13,Modelling Cerebrovascular Reactivity: A Novel Near-Infrared Biomarker of Cerebral Autoregulation?
+41,Springer Science + Business Media,Springer,none,22879021,10.1007/978-1-4614-4989-8_15,Oscillations in cerebral haemodynamics in patients with falciparum malaria
+42,Springer Science + Business Media,Springer,none,22879034,10.1007/978-1-4614-4989-8_28,Wavelet cross-correlation to investigate regional variations in cerebral oxygenation in infants supported on extracorporeal membrane oxygenation
+43,Springer Nature,BioMed Central,PMC3751770,,none,Socio-economic position and childhood multimorbidity: a study using linkage between the Avon Longitudinal Study of Parents and Children and the General Practice Research Database
+44,American Chemical Society (ACS),American Chemical Society,PMC3646404,,10.1021/pr400086y,Global quantitative SILAC phosphoproteomics reveals differential phosphorylation is widespread between the procyclic and bloodstream form lifecycle stages of Trypanosoma brucei.
+45,Springer Nature,BioMed Central,PMC3528429,,10.1186/1746-6148-8-234,"Prevalence of porcine cysticercosis and associated risk factors in Homa Bay District, Kenya"
+46,Springer Science + Business Media,BioMed Central,PMC3716626,,10.1186/1297-9716-44-46,Understanding foot-and-mouth disease virus transmission biology: identification of the indicators of infectiousness
+47,American Psychological Association (APA),American Psychological Association,PMC3576129,,10.1037/a0031190,The nature of nuture: Disentangling passive geneotype-environment correlation from family relationship influences on children's externalising problems
+48,Informa UK Limited,Landes Bioscience,PMC3536734,,10.4161/chan.22153,State-independent intracellular access of quatemary ammonium blockers to the pore of TREK-1
+51,MDPI AG,MDPI,PMC3571806,,10.3390/s121216695,Wearable and Implantable Sensors: The Patient's Perspective
+52,Oxford University Press (OUP),Oxford University Press,PMC3633361,,10.1093/alcalc/agt006,Post-treatment stage of change predicts 12-month outcome of treatment for alcohol problems
+54,Springer Nature,BioMed Central,PMC3599138,,10.1186/1471-2458-13-147,A retrospective study of Human Immunodeficincy Virus transmission mortality and loss to follow-up among infants in the first 18 months of life in prevention of mother-t-child transmission programme in an urban hospital in KwaZulu-Natal South Africa
+55,MDPI AG,MDPI,PMC3717731,,10.3390/ijerph10062185,Tobacco use and nicotine dependence among conflict-affected men in Georgia.
+56,Springer Nature,BioMed Central,PMC3598237,,10.1186/1476-511X-11-155,Evaluation of seven common lipid associated loci in a large indian sib pair study
+57,Springer Nature,BioMed Central,PMC3721994,,10.1186/1478-4491-11-34,Absenteeism amongst health workers - developing a typology to support empiric work in low-income countries and characterizing reported associations.
+58,Springer Nature,BioMed Central,PMC3529683,,10.1186/1478-4491-10-39,Human resources needs for universal access to antiretroviral therapy in South Africa: A time-motion study
+59,Royal College of Psychiatrists,BioMed Central,PMC3613719,,10.1186/1471-2458-13-152,Effectiveness of alcohol brief intervention delivered by community pharmacists: study protocol of a two-arm randomised controlled trial.
+60,Springer Nature,BioMed Central,PMC3533981,,10.1186/1471-2458-12-991,Geographical access to care at birth n Ghana: a barrier to safe motherhood
+61,Springer Nature,BioMed Central,PMC3637528,,10.1186/1471-2458-13-354,The role of community conversations in facilitating local HIV competence: Case study from rural Zimbabwe
+62,Springer Nature,BioMed Central,PMC3664085,,10.1186/1471-2458-13-490,"Evidence of improving antiretroviral therapy treatment delays: an analysis of eight years of programmatic outcomes in Blantyre, Malawi"
+63,Springer Nature,BioMed Central,PMC3735389,,10.1186/1471-2458-13-706,Association between legume intake and self-reported diabetes among adult men and women in India.
+64,Springer Nature,BioMed Central,PMC3844357,,10.1186/1471-2458-13-769,Education is associated with lower levels of abdominal obesity in women with a non-agricultural occupation: an interaction study using China's Four Provinces survey
+65,Springer Nature,BioMed Central,PMC3844310,,10.1186/1471-2458-13-802,Do accurate HIV and antiretroviral therapy knowledge and previous testing experiences increase the uptake o ....
+66,Springer Nature,BioMed Central,none,24456668,10.1186/1471-2458-13-949,Alcohol assessment and feedback by e-mail for university student hazardous and harmful drinkers: study protocol for the AMADEUS-2 randomised controlled trials.
+67,American Psychological Association (APA),American Psychological Association,none,23668184,10.1037/a0032570,Asymmetry in the Discrimination of Length During Spatial Learning
+68,Springer Nature,BioMed Central,PMC3637551,,10.1186/1471-2458-13-342,Social acceptability and perceived impact of a community-led cash transfer programme in Zimbabwe
+69,Springer Nature,BioMed Central,PMC3570447,,10.1186/1471-2458-12-980,Tuberculosis and poverty: the contribution of patients costs in sub-Saharan Africa - a systematic review
+70,Springer Nature,BioMed Central,PMC3599138,,10.1186/1471-2458-13-147,Maternal HIV disclosure to HIV- uninfected children in rural South Africa: a pilot study of family-based intervention
+71,Springer Nature,BioMed Central,PMC3651303,,10.1186/1471-2458-13-397,Older HIV-infected individuals present late and have a higher mortality: Brighton UK cohort study
+72,Springer Nature,BioMed Central,PMC3846679,,10.1186/1471-2458-13-817,Intimate partner violence against women during and after pregnancy: a cross-sectional study in Mumbai slums
+73,Springer Nature,BioMed Central,PMC3848687,,10.1186/1471-2458-13-835,The effectiveness of mental health promotion interventions for young people in low and middle income countries: a systematic review.
+75,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3397896,,10.1074/jbc.M112.377101,Annexin A1 Interaction with the FPR2/ALX Receptor
+76,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3642319,,10.1074/jbc.M112.419911,Biochemical and immunological characterisation of Toxoplasma gondii macrophage migration inhibitory factor
+77,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3137072,,10.1074/jbc.M111.242263,"Characterisation of GAS2-like 3, a new microtubule and actin-binding protein related to spectraplakins"
+78,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3522295,,10.1074/jbc.M112.386938,Constitutional mutations in RTEL1 cause severe dyskeratosis congenita
+79,Springer Nature,BioMed Central,PMC3751660,,10.1186/1471-2458-13-757,Implementation of an educational intervention to improve hand washing in primary schools: process evaluation within a randomised controlled trial
+80,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3581401,,10.1074/jbc.M112.416347,Molecular Architecture of a Complex between an Adhesion Protein from the Malaria Parasite and Intracellular Adhesion Molecule 1
+81,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3789947,,10.1074/jbc.M113.497149,Mechanism for Recognition of an Unusual Mycobacterial Glycolipid
+82,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3711325,,10.1074/jbc.M113.479642,Glycoprotein biosynthesis in a eukaryote lacking the membrane protein rft1
+83,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3642348,,10.1074/jbc.M112.414367,Human and viral golgi anti-apoptotic protein (GAAP) oligomerize via different mechanisms and monomeric GAAP inhibits apoptosis and modulates calcium
+84,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3561585,,10.1074/jbc.M112.415372,Distinct roles in autophagy and importance in infectivity of the two ATG4 cysteine peptidases of Leishmania major
+85,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3682533,,10.1074/jbc.M113.455337,Defining the molecular basis for the first potent and selective orthosteric agonists of the FFA2 free fatty acid receptor
+86,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3493908,,10.1074/jbc.M112.373969,Dynamic exchange of myosin VI on endocytic structures
+87,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3531760,,10.1074/jbc.M112.422402,Contrasting Effects of a-synuclein and y-synuclein on the Phenotype of Cysteine String Protein alpha (CSPa) Null Mutant Mice Suggest Distinct Function of these Proteins in Neuronal Synapses
+88,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3436574,,10.1074/jbc.M112.381541,Structural Requirements for Recognition of Major Histocompatibility Complex Class II by Membrane-associated RING-CH (MARCH) Protein E3 Ligases
+89,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3516716,,10.1074/jbc.M112.405407,"Novel keto-phospholipids are generated by monocytes and macrophages. Detected in Cystic Fibrosis, and activate peroxisome proliferator-activated receptor-? (Manuscript #M405409)"
+90,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3795252,,10.1074/jbc.M112.424846,SLP-76 sterile alpha motif (SAM) and individual H alpha helix mediates oligomer formation for microclusters and T-cell activation
+91,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3663556,,10.1074/jbc.M112.427765,Endomembrane HRas controls vascular endothelial growth factor-induced nitric oxide synthase-mediated endothelial cell migration
+92,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3757190,,10.1074/jbc.M113.492017,Fused in Sarcoma (FUS) Protein Lacking Nuclear Localization Signal (NLS) and Major RNA Binding Motifs Triggers Proteinopathy
+93,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3581394,,10.1074/jbc.M112.423012,Immobilization of Heparan Sulfate on Electrospun Meshes to Support Embryonic Stem Cell Culture and Differentiation
+94,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC2757965,,10.1074/jbc.M109.030338,Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling
+95,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC2962504,,10.1074/jbc.M110.154443,Structural and Functional Investigations of Matrilin-1 A-domains Reveal Insights into Their Role in Cartilage ECM Assembly
+96,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3268392,,10.1074/jbc.M111.306563,Photoaffinity labelling of high affinity nicotinic acid adenine dinucleotide 2'-phosphate (NAADP) proteins in sea urchin egg
+97,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3554938,,10.1074/jbc.M112.422238,Deubiquitinases regulate the activity of caspase-1 and IL-1β secretion via assembly of the inflammasome
+98,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3234717,,10.1074/jbc.M111.272419,Methionine Oxidation of Sup35 Protein Induces Formation of the [PSI+] Prion in a Yeast Peroxiredoxin Mutant
+99,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3591638,,10.1074/jbc.M112.428854,Molecular Basis for Jagged-1 Serrate
+100,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3696646,,10.1074/jbc.M113.463372,Comparative Proteomic Analysis of Supportive and Unsupportive Extracellular Matrix Substrates for Human Embryonic Stem Cell Maintenance.
+101,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3234811,,10.1074/jbc.M111.289777,Picomolar nitric oxide signals from central neurons recorded using ultrasensitive detector cells
+102,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3772201,,10.1074/jbc.M113.485409,Galactose 6-o-sulfotransferases are not required for the generation of siglec-f ligands in leukocytes or lung tissue.
+103,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3682544,,10.1074/jbc.M113.469841,STRUCTURAL ANALYSIS OF COLLAGEN TYPE I INTERACTIONS WITH HUMAN FIBRONECTIN REVEALS A COOPERATIVE BONDING MODE
+104,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3663545,,10.1074/jbc.M113.461137,Allosteric activation of trypanosomatid deoxyhypusine synthase by a catalytically dead paralog
+105,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3597819,,10.1074/jbc.M112.437996,Structural Basis for Cul3 Protein Assembly with the BTB-Kelch Family of E3 Ubiquitin Ligases
+106,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3431625,,10.1074/jbc.M111.331157,Opticin Exerts Its Anti-Angiogenic Activity by Regulating Extracellular Matrix Adhesiveness
+107,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3488092,,10.1074/jbc.M112.402289,Solution NMR Structure of the Ca2+- Bound N-Terminal Domain of Calcium Binding Protein 7 (CaBP7): A regulator of Golgi trafficking
+108,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3308871,,10.1074/jbc.M111.283689,Structural and evolutionary basis for the dual substrate selectivity of human KDM4 histone demethylase family.
+109,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3527912,,10.1074/jbc.M112.422089,Structural and functional characterisation of the kindlin-1 pleckstrin homology domain
+110,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3265891,,10.1074/jbc.M111.313015,Structural and kinetic evidence that catalytic reaction of human UDP-glucose 6-dehydrogenase involves covalent thiohemiacetal and thioester enzyme intermediates.
+111,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3234852,,10.1074/jbc.M111.270751,Inhibitory member of the apoptosis-stimulating proteins of the p53 family (iASPP) interacts with protein phosphatase 1 via a noncanonical binding motif.
+112,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3774408,,10.1074/jbc.M113.464651,"P2X receptor chimeras highlight roles of the amino terminus to partial agonist efficacy, the carboxyl terminus to recovery from desensitization, and independent regulation of channel transitions"
+113,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3591641,,10.1074/jbc.M112.447524,Expanding the repertoire of amyloiod polymorphs by co-polymerization of related protein precursors
+114,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC2952269,,10.1074/jbc.M110.128256,SSS1p is required to complete protein translocon activation
+115,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3121340,,10.1074/jbc.M111.219568,Preferential Targeting of a Signal Recognition Particle-dependent Precursor
+116,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3774368,,10.1074/jbc.M112.445346,Functional properties of five Dictyostelium discoideum P2X receptors
+117,Springer Nature,BioMed Central,PMC3665474,,10.1186/1471-2458-13-497,Walking and cycling to work despite reporting an unsupportive environment: insights from a mixed-method exploration of resilience
+119,Springer Nature,BioMed Central,PMC3190389,,10.1186/1743-422X-8-442,Label-free quantitative proteomics reveals regulation of interferon-induced protein with tetratricopeptide repeats 3 (IFIT3) and 5'-3'-exoribonuclease 2 (XRN2) during respiratory syncytial virus infection.
+140,American Society for Biochemistry & Molecular Biology (ASBMB),American Society for Biochemistry and Molecular Biology,PMC3173209,,10.1074/jbc.M111.219212,The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+201,unknown,Bentham,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,unknown,Berhahn Books,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,Wiley-Blackwell,University of the Basque Country Press,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Journal title,processed_apc_2012_2013.csv Journal title,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+5,"Science (New York, N.Y.)",Science,none,,10.1126/science.1228160,"High coverage of ART associated with decline in risk of HIV acquisition in rural KwaZulu-Natal, South Africa"
+6,"Science (New York, N.Y.)",Science,PMC3860268,,10.1126/science.1230413,Increase in adult life expectancy
+7,"Journal of immunology (Baltimore, Md. : 1950)",Journal of Immunology,PMC3672848,,10.4049/jimmunol.1201510,Mitochondrial superoxide generation enhances P2X7R-mediated loss of cell surface CD62L on naive human CD4+ T lymphocytes.
+8,"Journal of immunology (Baltimore, Md. : 1950)",Journal of Immunology,PMC3549224,,10.4049/jimmunol.1202438,Chronic Exposure to Plasmodium falciparum Is Associated with Phenotypic Evidence of B and T Cell Exhaustion
+9,"Journal of immunology (Baltimore, Md. : 1950)",Journal of Immunology,PMC3619528,,10.4049/jimmunol.1202611,Candida albicans primes the Toll-like receptor cytokine responses through a dectin-1/Ref-1-mediated pathway
+10,"Journal of immunology (Baltimore, Md. : 1950)",Journal of Immunology,PMC3607403,,10.4049/jimmunol.1203389,GRB2-Mediated Recruitment of THEMIS to LAT Is Essential for Thymocyte Development
+16,PLoS neglected tropical diseases,Medical History,PMC3542187,,10.1017/mdh.2013.17,The Research Council System and The Politics of Medical and Agricultural Research for the British Colonial Empire 1940-1952
+20,"Acta crystallographica. Section F, Structural biology and crystallization communications",Acta Crystallographica F,PMC3606566,,10.1107/S1744309113002352,Structure of Pseudomonas aeruginosa inosine 5'-monophosphate dehydrogenase
+21,"Acta crystallographica. Section F, Structural biology and crystallization communications",Acta Crystallographica F,PMC3668577,,10.1107/S174430911301292X,Structure of diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase from Acinetobacter baumannii.
+23,"Acta crystallographica. Section F, Structural biology and crystallization communications",Acta Crystallographica F,PMC3374517,,10.1107/S1744309112010330,Crystallization and preliminary crystallographic analysis of the major capsid proteins VP16 and VP17 of bacteriophage P23-77
+24,Africa,Africa: Journal of the International African Institute,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,Africa,Africa: Journal of the International African Institute,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,Africa,Africa: Journal of the International African Institute,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+27,Journal of the International Neuropsychological Society : JINS,Africa: Journal of the International African Institute,PMC3948080,23158229,10.1017/S1355617712000768,Effects of Maternal Worm Infections and Anthelminthic Treatment during Pregnancy on Infant Motor and Neurocognitive Functioning
+28,Brit. J. Hist. Sci,British Journal for the History of Science,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+29,"Health (London, England : 1997)","Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine",PMC3930469,,10.1177/1363459313476966,Re-valuing donor and recipient bodies in the globalised blood economy: transitions in public policy on blood safety in the UK
+32,"Psychological trauma : theory, research, practice and policy","Psychological Trauma: Theory research, practice and policy",PMC3444173,,10.1037/a0027006,Investigating cognitive pathways to psychopathology: predicting depression and posttraumatic stress disorder from early responses after assault
+33,Cost effectiveness and resource allocation : C/E,Cost Effectiveness and Resource Allocation,PMC3348006,,10.1186/1478-7547-10-5,Cost and cost effectiveness of long-lasting insecticide-treated bed nets - a model-based analysis
+47,Journal of family psychology : JFP : journal of the Division of Family Psychology of the American Psychological Association (Division 43),Journal of Family Psychology,PMC3576129,,10.1037/a0031190,The nature of nuture: Disentangling passive geneotype-environment correlation from family relationship influences on children's externalising problems
+48,"Channels (Austin, Tex.)",Channels,PMC3536734,,10.4161/chan.22153,State-independent intracellular access of quatemary ammonium blockers to the pore of TREK-1
+49,American journal of physiology. Heart and circulatory physiology,Heart and Circulatory Physiology,PMC3330789,,10.1152/ajpheart.00357.2011,Altered sinoatrial node function and intra-atrial conduction in murine gain-of-function Scn5a+/ΔKPQ hearts suggest an overlap syndrome.
+50,"Journal of applied physiology (Bethesda, Md. : 1985)",Journal of Applied Physiology,PMC3798815,,10.1152/japplphysiol.00777.2013,Development and validation of anthropometric prediction equation for estimation of lean body mass and appendicular lean soft tissue in Indian mean and women.
+51,"Sensors (Basel, Switzerland)",Sensors,PMC3571806,,10.3390/s121216695,Wearable and Implantable Sensors: The Patient's Perspective
+52,"Alcohol and alcoholism (Oxford, Oxfordshire)",Alcohol and Alcoholism,PMC3633361,,10.1093/alcalc/agt006,Post-treatment stage of change predicts 12-month outcome of treatment for alcohol problems
+54,BMC public health,BMC Pediatrics,PMC3599138,,10.1186/1471-2458-13-147,A retrospective study of Human Immunodeficincy Virus transmission mortality and loss to follow-up among infants in the first 18 months of life in prevention of mother-t-child transmission programme in an urban hospital in KwaZulu-Natal South Africa
+59,The British journal of psychiatry : the journal of mental science,BMC Public Health,PMC3613719,,10.1186/1471-2458-13-152,Effectiveness of alcohol brief intervention delivered by community pharmacists: study protocol of a two-arm randomised controlled trial.
+67,Journal of experimental psychology. Animal behavior processes,Journal of Experimental Psychology: Animal Behaviour Process,none,23668184,10.1037/a0032570,Asymmetry in the Discrimination of Length During Spatial Learning
+75,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3397896,,10.1074/jbc.M112.377101,Annexin A1 Interaction with the FPR2/ALX Receptor
+76,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3642319,,10.1074/jbc.M112.419911,Biochemical and immunological characterisation of Toxoplasma gondii macrophage migration inhibitory factor
+77,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3137072,,10.1074/jbc.M111.242263,"Characterisation of GAS2-like 3, a new microtubule and actin-binding protein related to spectraplakins"
+78,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3522295,,10.1074/jbc.M112.386938,Constitutional mutations in RTEL1 cause severe dyskeratosis congenita
+80,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3581401,,10.1074/jbc.M112.416347,Molecular Architecture of a Complex between an Adhesion Protein from the Malaria Parasite and Intracellular Adhesion Molecule 1
+81,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3789947,,10.1074/jbc.M113.497149,Mechanism for Recognition of an Unusual Mycobacterial Glycolipid
+82,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3711325,,10.1074/jbc.M113.479642,Glycoprotein biosynthesis in a eukaryote lacking the membrane protein rft1
+83,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3642348,,10.1074/jbc.M112.414367,Human and viral golgi anti-apoptotic protein (GAAP) oligomerize via different mechanisms and monomeric GAAP inhibits apoptosis and modulates calcium
+84,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3561585,,10.1074/jbc.M112.415372,Distinct roles in autophagy and importance in infectivity of the two ATG4 cysteine peptidases of Leishmania major
+85,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3682533,,10.1074/jbc.M113.455337,Defining the molecular basis for the first potent and selective orthosteric agonists of the FFA2 free fatty acid receptor
+86,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3493908,,10.1074/jbc.M112.373969,Dynamic exchange of myosin VI on endocytic structures
+87,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3531760,,10.1074/jbc.M112.422402,Contrasting Effects of a-synuclein and y-synuclein on the Phenotype of Cysteine String Protein alpha (CSPa) Null Mutant Mice Suggest Distinct Function of these Proteins in Neuronal Synapses
+88,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3436574,,10.1074/jbc.M112.381541,Structural Requirements for Recognition of Major Histocompatibility Complex Class II by Membrane-associated RING-CH (MARCH) Protein E3 Ligases
+89,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3516716,,10.1074/jbc.M112.405407,"Novel keto-phospholipids are generated by monocytes and macrophages. Detected in Cystic Fibrosis, and activate peroxisome proliferator-activated receptor-? (Manuscript #M405409)"
+90,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3795252,,10.1074/jbc.M112.424846,SLP-76 sterile alpha motif (SAM) and individual H alpha helix mediates oligomer formation for microclusters and T-cell activation
+91,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3663556,,10.1074/jbc.M112.427765,Endomembrane HRas controls vascular endothelial growth factor-induced nitric oxide synthase-mediated endothelial cell migration
+92,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3757190,,10.1074/jbc.M113.492017,Fused in Sarcoma (FUS) Protein Lacking Nuclear Localization Signal (NLS) and Major RNA Binding Motifs Triggers Proteinopathy
+93,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3581394,,10.1074/jbc.M112.423012,Immobilization of Heparan Sulfate on Electrospun Meshes to Support Embryonic Stem Cell Culture and Differentiation
+94,The Journal of biological chemistry,Journal of Biological Chemistry,PMC2757965,,10.1074/jbc.M109.030338,Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling
+95,The Journal of biological chemistry,Journal of Biological Chemistry,PMC2962504,,10.1074/jbc.M110.154443,Structural and Functional Investigations of Matrilin-1 A-domains Reveal Insights into Their Role in Cartilage ECM Assembly
+96,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3268392,,10.1074/jbc.M111.306563,Photoaffinity labelling of high affinity nicotinic acid adenine dinucleotide 2'-phosphate (NAADP) proteins in sea urchin egg
+97,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3554938,,10.1074/jbc.M112.422238,Deubiquitinases regulate the activity of caspase-1 and IL-1β secretion via assembly of the inflammasome
+98,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3234717,,10.1074/jbc.M111.272419,Methionine Oxidation of Sup35 Protein Induces Formation of the [PSI+] Prion in a Yeast Peroxiredoxin Mutant
+99,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3591638,,10.1074/jbc.M112.428854,Molecular Basis for Jagged-1 Serrate
+100,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3696646,,10.1074/jbc.M113.463372,Comparative Proteomic Analysis of Supportive and Unsupportive Extracellular Matrix Substrates for Human Embryonic Stem Cell Maintenance.
+101,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3234811,,10.1074/jbc.M111.289777,Picomolar nitric oxide signals from central neurons recorded using ultrasensitive detector cells
+102,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3772201,,10.1074/jbc.M113.485409,Galactose 6-o-sulfotransferases are not required for the generation of siglec-f ligands in leukocytes or lung tissue.
+103,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3682544,,10.1074/jbc.M113.469841,STRUCTURAL ANALYSIS OF COLLAGEN TYPE I INTERACTIONS WITH HUMAN FIBRONECTIN REVEALS A COOPERATIVE BONDING MODE
+104,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3663545,,10.1074/jbc.M113.461137,Allosteric activation of trypanosomatid deoxyhypusine synthase by a catalytically dead paralog
+105,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3597819,,10.1074/jbc.M112.437996,Structural Basis for Cul3 Protein Assembly with the BTB-Kelch Family of E3 Ubiquitin Ligases
+106,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3431625,,10.1074/jbc.M111.331157,Opticin Exerts Its Anti-Angiogenic Activity by Regulating Extracellular Matrix Adhesiveness
+107,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3488092,,10.1074/jbc.M112.402289,Solution NMR Structure of the Ca2+- Bound N-Terminal Domain of Calcium Binding Protein 7 (CaBP7): A regulator of Golgi trafficking
+108,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3308871,,10.1074/jbc.M111.283689,Structural and evolutionary basis for the dual substrate selectivity of human KDM4 histone demethylase family.
+109,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3527912,,10.1074/jbc.M112.422089,Structural and functional characterisation of the kindlin-1 pleckstrin homology domain
+110,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3265891,,10.1074/jbc.M111.313015,Structural and kinetic evidence that catalytic reaction of human UDP-glucose 6-dehydrogenase involves covalent thiohemiacetal and thioester enzyme intermediates.
+111,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3234852,,10.1074/jbc.M111.270751,Inhibitory member of the apoptosis-stimulating proteins of the p53 family (iASPP) interacts with protein phosphatase 1 via a noncanonical binding motif.
+112,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3774408,,10.1074/jbc.M113.464651,"P2X receptor chimeras highlight roles of the amino terminus to partial agonist efficacy, the carboxyl terminus to recovery from desensitization, and independent regulation of channel transitions"
+113,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3591641,,10.1074/jbc.M112.447524,Expanding the repertoire of amyloiod polymorphs by co-polymerization of related protein precursors
+114,The Journal of biological chemistry,Journal of Biological Chemistry,PMC2952269,,10.1074/jbc.M110.128256,SSS1p is required to complete protein translocon activation
+115,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3121340,,10.1074/jbc.M111.219568,Preferential Targeting of a Signal Recognition Particle-dependent Precursor
+116,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3774368,,10.1074/jbc.M112.445346,Functional properties of five Dictyostelium discoideum P2X receptors
+119,Virology journal,Virology,PMC3190389,,10.1186/1743-422X-8-442,Label-free quantitative proteomics reveals regulation of interferon-induced protein with tetratricopeptide repeats 3 (IFIT3) and 5'-3'-exoribonuclease 2 (XRN2) during respiratory syncytial virus infection.
+140,The Journal of biological chemistry,Journal of Biological Chemistry,PMC3173209,,10.1074/jbc.M111.219212,The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+201,unknown,Current Topics in Medicinal Chemistry,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,unknown,"Evidence, Ethos and Experiment: Anthropology and History of Medical Research in Africa",none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,American Ethnologist,International Journal of Developmental Biology,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv ISSN,processed_apc_2012_2013.csv ISSN,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+26,0001-9720,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+28,0007-0874,"0007-0874, 1474-001X",none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+201,unknown,"1568-0266, 1873-4294",,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,unknown,,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,0094-0496,"0214-6282, 1696-3547",none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Article title,processed_apc_2012_2013.csv Article title,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+70,A retrospective study of Human Immunodeficincy Virus transmission mortality and loss to follow-up among infants in the first 18 months of life in prevention of mother-t-child transmission programme in an urban hospital in KwaZulu-Natal South Africa,Maternal HIV disclosure to HIV- uninfected children in rural South Africa: a pilot study of family-based intervention,PMC3599138,,10.1186/1471-2458-13-147,Maternal HIV disclosure to HIV- uninfected children in rural South Africa: a pilot study of family-based intervention
+201,Parasite lost - remembering modern times with Kenyan government medical scientists.,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,"Studying trial Communities: anthropological and historical enquiries and ethos, politics and economy of medical research in Africa.",Parasite lost - remembering modern times with Kenyan government medical scientists.,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,This is our little Hajj? Muslim Holy sites and reappropriation of the sacred,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Fulltext in EPMC?,processed_apc_2012_2013.csv Fulltext in EPMC?,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+14,FALSE,True,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+24,FALSE,True,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,FALSE,True,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,FALSE,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+
+Row #,apc_2012_2013_results.csv XML Fulltext?,processed_apc_2012_2013.csv XML Fulltext?,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+24,FALSE,True,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,FALSE,True,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,FALSE,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+
+Row #,apc_2012_2013_results.csv Author Manuscript?,processed_apc_2012_2013.csv AAM?,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+5,TRUE,unknown,none,,10.1126/science.1228160,"High coverage of ART associated with decline in risk of HIV acquisition in rural KwaZulu-Natal, South Africa"
+6,TRUE,unknown,PMC3860268,,10.1126/science.1230413,Increase in adult life expectancy
+7,TRUE,unknown,PMC3672848,,10.4049/jimmunol.1201510,Mitochondrial superoxide generation enhances P2X7R-mediated loss of cell surface CD62L on naive human CD4+ T lymphocytes.
+8,FALSE,unknown,PMC3549224,,10.4049/jimmunol.1202438,Chronic Exposure to Plasmodium falciparum Is Associated with Phenotypic Evidence of B and T Cell Exhaustion
+9,FALSE,unknown,PMC3619528,,10.4049/jimmunol.1202611,Candida albicans primes the Toll-like receptor cytokine responses through a dectin-1/Ref-1-mediated pathway
+10,FALSE,unknown,PMC3607403,,10.4049/jimmunol.1203389,GRB2-Mediated Recruitment of THEMIS to LAT Is Essential for Thymocyte Development
+13,TRUE,unknown,PMC3757918,,10.1177/0952695113484320,How autism became autism: the radical transformation of a central concept of child development in Britain
+14,FALSE,unknown,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+26,FALSE,unknown,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+28,FALSE,unknown,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+74,FALSE,unknown,PMC3673232,,10.2105/AJPH.2012.300939,Health co-benefits and transportation-related reductions in greenhouse gas emissions in the San Francisco bay area
+201,FALSE,unknown,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,FALSE,unknown,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,FALSE,unknown,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Open Access?,processed_apc_2012_2013.csv Open Access?,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+24,FALSE,True,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,FALSE,True,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,FALSE,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+28,FALSE,,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+74,FALSE,,PMC3673232,,10.2105/AJPH.2012.300939,Health co-benefits and transportation-related reductions in greenhouse gas emissions in the San Francisco bay area
+201,TRUE,,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+1854,FALSE,,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Licence,processed_apc_2012_2013.csv Licence,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+2,cc by,cc-by,PMC3671369,,10.1057/9781137377029,"Health Economists, Tobacco Control and International Development: On the Economisation of Global Health beyond Neoliberal Structural Adjustment Policies"
+3,cc by-nc,cc-by-nc,PMC3724273,,10.1177/0952695112468526,The pursuit of happiness: the social and scientific origins of Hans Selye’s natural philosophy of life’
+4,cc by,cc-by,PMC3627513,,10.1177/0952695112470350,War on fear: Solly Zuckerman and civilian nerve in World War II
+11,cc by,cc-by,PMC3627511,,10.1177/0952695112471658,The invention of the psychosocial: an introduction
+12,cc by,cc-by,PMC3652708,,10.1177/0952695112473619,Making the cut: the production of 'self-harm' in post-1945 Anglo-Saxon psychiatry
+13,cc by-nc,cc-by-nc,PMC3757918,,10.1177/0952695113484320,How autism became autism: the radical transformation of a central concept of child development in Britain
+14,unknown,cc-by,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+15,cc by,cc-by,PMC3865968,,10.1017/mdh.2013.63,International health and the limits of its global influence: Bhutan and the worldwide smallpox eradication
+17,cc by,cc-by,PMC3865946,,10.1017/mdh.2013.20,"A Textbook Pattern? Malarai Eradication and Control, Jamaica 1910-1965"
+18,non-standard-licence,unknown,PMC3483757,,10.1017/mdh.2012.30,Mrs Killer and Dr Crook: birth attendants and birth outcomes in early twentieth century Derbyshire
+19,non-standard-licence,cc-by,PMC3566749,,10.1017/mdh.2012.81,"I've Never Found Doctors to be a Difficult Bunch': Doctors, Managers and NHS Reorganisations in Manchester and Salford, 1948-2007"
+20,cc by,cc-by,PMC3606566,,10.1107/S1744309113002352,Structure of Pseudomonas aeruginosa inosine 5'-monophosphate dehydrogenase
+21,cc by,cc-by,PMC3668577,,10.1107/S174430911301292X,Structure of diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase from Acinetobacter baumannii.
+22,non-standard-licence,unknown,none,23072351,10.1021/ac302223s,Amphipathic polymers facilitate the study of functional membrane in the gas phase
+23,cc by,cc-by,PMC3374517,,10.1107/S1744309112010330,Crystallization and preliminary crystallographic analysis of the major capsid proteins VP16 and VP17 of bacteriophage P23-77
+24,unknown,cc-by,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,unknown,cc-by,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+27,cc by-nc-sa,cc-by-nc-sa,PMC3948080,23158229,10.1017/S1355617712000768,Effects of Maternal Worm Infections and Anthelminthic Treatment during Pregnancy on Infant Motor and Neurocognitive Functioning
+29,cc by,cc-by,PMC3930469,,10.1177/1363459313476966,Re-valuing donor and recipient bodies in the globalised blood economy: transitions in public policy on blood safety in the UK
+30,non-standard-licence,cc-by,none,20146481,10.1021/jm901827x,Toward biophysical probes for the 5-HT3 receptor: structure-activity relationship study of granisetron derivatives
+31,cc by,cc-by,PMC3766112,,10.1186/1756-0500-6-344,"Prevalence of schistosome antibodies and hepatosplenic signs and symptoms among patients from Kaoma, Western Province, Zambia"
+33,cc by,cc-by,PMC3348006,,10.1186/1478-7547-10-5,Cost and cost effectiveness of long-lasting insecticide-treated bed nets - a model-based analysis
+34,cc by,cc-by,PMC3744815,,10.1016/j.ejmg.2013.05.001,The internet is parents' main source of information about psychiatric manifestationsof 22q11.2 deletion syndrome
+35,cc by,cc-by,PMC3750443,,10.1186/1472-6939-14-27,Taking ethical photos of children for medical and research purposes in low-resource settings: an exploratory qualitative study
+36,cc by,cc-by,PMC3664635,,10.1186/1472-6963-13-195,Community groups as 'critical enablers' of the HIV response in Zimbabwe
+37,cc by,cc-by,PMC3312863,,10.1186/1472-6963-12-42,The development of a lay health worker delivered collaborative community based intervention for people with schizophrenia in India
+38,cc by,cc-by,PMC3765690,,10.1186/1742-6405-10-20,Collective Patient behaviours derailing ART rool-out in KwaZulu-Natal: Perspectives of Health Care Providers
+39,cc-nc,cc-by-nc,none,22879016,10.1007/978-1-4614-4989-8_10,Normobaric hyperoxia does not change optical scattering or pathlength but does increase oxidised cytochrome C oxidase concentration in patients with brain injury
+40,cc-nc,cc-by-nc,none,22879019,10.1007/978-1-4614-4989-8_13,Modelling Cerebrovascular Reactivity: A Novel Near-Infrared Biomarker of Cerebral Autoregulation?
+41,cc-nc,cc-by-nc,none,22879021,10.1007/978-1-4614-4989-8_15,Oscillations in cerebral haemodynamics in patients with falciparum malaria
+42,cc-nc,cc-by-nc,none,22879034,10.1007/978-1-4614-4989-8_28,Wavelet cross-correlation to investigate regional variations in cerebral oxygenation in infants supported on extracorporeal membrane oxygenation
+43,cc by,cc-by,PMC3751770,,none,Socio-economic position and childhood multimorbidity: a study using linkage between the Avon Longitudinal Study of Parents and Children and the General Practice Research Database
+45,cc by,cc-by,PMC3528429,,10.1186/1746-6148-8-234,"Prevalence of porcine cysticercosis and associated risk factors in Homa Bay District, Kenya"
+46,cc by,cc-by,PMC3716626,,10.1186/1297-9716-44-46,Understanding foot-and-mouth disease virus transmission biology: identification of the indicators of infectiousness
+48,cc by-nc,cc-by-nc,PMC3536734,,10.4161/chan.22153,State-independent intracellular access of quatemary ammonium blockers to the pore of TREK-1
+50,cc by,cc-by,PMC3798815,,10.1152/japplphysiol.00777.2013,Development and validation of anthropometric prediction equation for estimation of lean body mass and appendicular lean soft tissue in Indian mean and women.
+51,cc by,cc-by,PMC3571806,,10.3390/s121216695,Wearable and Implantable Sensors: The Patient's Perspective
+52,cc by-nc,cc-by-nc,PMC3633361,,10.1093/alcalc/agt006,Post-treatment stage of change predicts 12-month outcome of treatment for alcohol problems
+54,cc by,cc-by,PMC3599138,,10.1186/1471-2458-13-147,A retrospective study of Human Immunodeficincy Virus transmission mortality and loss to follow-up among infants in the first 18 months of life in prevention of mother-t-child transmission programme in an urban hospital in KwaZulu-Natal South Africa
+55,cc by,cc-by,PMC3717731,,10.3390/ijerph10062185,Tobacco use and nicotine dependence among conflict-affected men in Georgia.
+56,cc by,cc-by,PMC3598237,,10.1186/1476-511X-11-155,Evaluation of seven common lipid associated loci in a large indian sib pair study
+57,cc by,cc-by,PMC3721994,,10.1186/1478-4491-11-34,Absenteeism amongst health workers - developing a typology to support empiric work in low-income countries and characterizing reported associations.
+58,cc by,cc-by,PMC3529683,,10.1186/1478-4491-10-39,Human resources needs for universal access to antiretroviral therapy in South Africa: A time-motion study
+60,cc by,cc-by,PMC3533981,,10.1186/1471-2458-12-991,Geographical access to care at birth n Ghana: a barrier to safe motherhood
+61,cc by,cc-by,PMC3637528,,10.1186/1471-2458-13-354,The role of community conversations in facilitating local HIV competence: Case study from rural Zimbabwe
+62,cc by,cc-by,PMC3664085,,10.1186/1471-2458-13-490,"Evidence of improving antiretroviral therapy treatment delays: an analysis of eight years of programmatic outcomes in Blantyre, Malawi"
+63,cc by,cc-by,PMC3735389,,10.1186/1471-2458-13-706,Association between legume intake and self-reported diabetes among adult men and women in India.
+64,cc by,cc-by,PMC3844357,,10.1186/1471-2458-13-769,Education is associated with lower levels of abdominal obesity in women with a non-agricultural occupation: an interaction study using China's Four Provinces survey
+65,cc by,cc-by,PMC3844310,,10.1186/1471-2458-13-802,Do accurate HIV and antiretroviral therapy knowledge and previous testing experiences increase the uptake o ....
+66,cc by,cc-by,none,24456668,10.1186/1471-2458-13-949,Alcohol assessment and feedback by e-mail for university student hazardous and harmful drinkers: study protocol for the AMADEUS-2 randomised controlled trials.
+67,non-standard-licence,unknown,none,23668184,10.1037/a0032570,Asymmetry in the Discrimination of Length During Spatial Learning
+68,cc by,cc-by,PMC3637551,,10.1186/1471-2458-13-342,Social acceptability and perceived impact of a community-led cash transfer programme in Zimbabwe
+69,cc by,cc-by,PMC3570447,,10.1186/1471-2458-12-980,Tuberculosis and poverty: the contribution of patients costs in sub-Saharan Africa - a systematic review
+70,cc by,cc-by,PMC3599138,,10.1186/1471-2458-13-147,Maternal HIV disclosure to HIV- uninfected children in rural South Africa: a pilot study of family-based intervention
+71,cc by,cc-by,PMC3651303,,10.1186/1471-2458-13-397,Older HIV-infected individuals present late and have a higher mortality: Brighton UK cohort study
+72,cc by,cc-by,PMC3846679,,10.1186/1471-2458-13-817,Intimate partner violence against women during and after pregnancy: a cross-sectional study in Mumbai slums
+73,cc by,cc-by,PMC3848687,,10.1186/1471-2458-13-835,The effectiveness of mental health promotion interventions for young people in low and middle income countries: a systematic review.
+75,cc by-nc,cc-by-nc,PMC3397896,,10.1074/jbc.M112.377101,Annexin A1 Interaction with the FPR2/ALX Receptor
+76,cc by,cc-by,PMC3642319,,10.1074/jbc.M112.419911,Biochemical and immunological characterisation of Toxoplasma gondii macrophage migration inhibitory factor
+77,cc by-nc,cc-by-nc,PMC3137072,,10.1074/jbc.M111.242263,"Characterisation of GAS2-like 3, a new microtubule and actin-binding protein related to spectraplakins"
+78,cc by-nc,cc-by-nc,PMC3522295,,10.1074/jbc.M112.386938,Constitutional mutations in RTEL1 cause severe dyskeratosis congenita
+79,cc by,cc-by,PMC3751660,,10.1186/1471-2458-13-757,Implementation of an educational intervention to improve hand washing in primary schools: process evaluation within a randomised controlled trial
+80,cc by-nc,cc-by-nc,PMC3581401,,10.1074/jbc.M112.416347,Molecular Architecture of a Complex between an Adhesion Protein from the Malaria Parasite and Intracellular Adhesion Molecule 1
+81,cc by,cc-by,PMC3789947,,10.1074/jbc.M113.497149,Mechanism for Recognition of an Unusual Mycobacterial Glycolipid
+82,cc by,cc-by,PMC3711325,,10.1074/jbc.M113.479642,Glycoprotein biosynthesis in a eukaryote lacking the membrane protein rft1
+83,cc by,cc-by,PMC3642348,,10.1074/jbc.M112.414367,Human and viral golgi anti-apoptotic protein (GAAP) oligomerize via different mechanisms and monomeric GAAP inhibits apoptosis and modulates calcium
+84,cc by-nc,cc-by-nc,PMC3561585,,10.1074/jbc.M112.415372,Distinct roles in autophagy and importance in infectivity of the two ATG4 cysteine peptidases of Leishmania major
+85,cc by,cc-by,PMC3682533,,10.1074/jbc.M113.455337,Defining the molecular basis for the first potent and selective orthosteric agonists of the FFA2 free fatty acid receptor
+86,cc by-nc,cc-by-nc,PMC3493908,,10.1074/jbc.M112.373969,Dynamic exchange of myosin VI on endocytic structures
+87,cc by-nc,cc-by-nc,PMC3531760,,10.1074/jbc.M112.422402,Contrasting Effects of a-synuclein and y-synuclein on the Phenotype of Cysteine String Protein alpha (CSPa) Null Mutant Mice Suggest Distinct Function of these Proteins in Neuronal Synapses
+88,cc by-nc,cc-by-nc,PMC3436574,,10.1074/jbc.M112.381541,Structural Requirements for Recognition of Major Histocompatibility Complex Class II by Membrane-associated RING-CH (MARCH) Protein E3 Ligases
+89,cc by-nc,cc-by-nc,PMC3516716,,10.1074/jbc.M112.405407,"Novel keto-phospholipids are generated by monocytes and macrophages. Detected in Cystic Fibrosis, and activate peroxisome proliferator-activated receptor-? (Manuscript #M405409)"
+90,cc by,cc-by,PMC3795252,,10.1074/jbc.M112.424846,SLP-76 sterile alpha motif (SAM) and individual H alpha helix mediates oligomer formation for microclusters and T-cell activation
+91,cc by,cc-by,PMC3663556,,10.1074/jbc.M112.427765,Endomembrane HRas controls vascular endothelial growth factor-induced nitric oxide synthase-mediated endothelial cell migration
+92,cc by,cc-by,PMC3757190,,10.1074/jbc.M113.492017,Fused in Sarcoma (FUS) Protein Lacking Nuclear Localization Signal (NLS) and Major RNA Binding Motifs Triggers Proteinopathy
+93,cc by-nc,cc-by-nc,PMC3581394,,10.1074/jbc.M112.423012,Immobilization of Heparan Sulfate on Electrospun Meshes to Support Embryonic Stem Cell Culture and Differentiation
+94,cc by-nc,cc-by-nc,PMC2757965,,10.1074/jbc.M109.030338,Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling
+95,cc by-nc,cc-by-nc,PMC2962504,,10.1074/jbc.M110.154443,Structural and Functional Investigations of Matrilin-1 A-domains Reveal Insights into Their Role in Cartilage ECM Assembly
+96,cc by-nc,cc-by-nc,PMC3268392,,10.1074/jbc.M111.306563,Photoaffinity labelling of high affinity nicotinic acid adenine dinucleotide 2'-phosphate (NAADP) proteins in sea urchin egg
+97,cc by-nc,cc-by-nc,PMC3554938,,10.1074/jbc.M112.422238,Deubiquitinases regulate the activity of caspase-1 and IL-1β secretion via assembly of the inflammasome
+98,cc by-nc,cc-by-nc,PMC3234717,,10.1074/jbc.M111.272419,Methionine Oxidation of Sup35 Protein Induces Formation of the [PSI+] Prion in a Yeast Peroxiredoxin Mutant
+99,cc by-nc,cc-by-nc,PMC3591638,,10.1074/jbc.M112.428854,Molecular Basis for Jagged-1 Serrate
+100,cc by,cc-by,PMC3696646,,10.1074/jbc.M113.463372,Comparative Proteomic Analysis of Supportive and Unsupportive Extracellular Matrix Substrates for Human Embryonic Stem Cell Maintenance.
+101,cc by-nc,cc-by-nc,PMC3234811,,10.1074/jbc.M111.289777,Picomolar nitric oxide signals from central neurons recorded using ultrasensitive detector cells
+102,cc by,cc-by,PMC3772201,,10.1074/jbc.M113.485409,Galactose 6-o-sulfotransferases are not required for the generation of siglec-f ligands in leukocytes or lung tissue.
+103,cc by,cc-by,PMC3682544,,10.1074/jbc.M113.469841,STRUCTURAL ANALYSIS OF COLLAGEN TYPE I INTERACTIONS WITH HUMAN FIBRONECTIN REVEALS A COOPERATIVE BONDING MODE
+104,cc by,cc-by,PMC3663545,,10.1074/jbc.M113.461137,Allosteric activation of trypanosomatid deoxyhypusine synthase by a catalytically dead paralog
+105,cc by-nc,cc-by-nc,PMC3597819,,10.1074/jbc.M112.437996,Structural Basis for Cul3 Protein Assembly with the BTB-Kelch Family of E3 Ubiquitin Ligases
+106,cc by-nc,cc-by-nc,PMC3431625,,10.1074/jbc.M111.331157,Opticin Exerts Its Anti-Angiogenic Activity by Regulating Extracellular Matrix Adhesiveness
+107,cc by-nc,cc-by-nc,PMC3488092,,10.1074/jbc.M112.402289,Solution NMR Structure of the Ca2+- Bound N-Terminal Domain of Calcium Binding Protein 7 (CaBP7): A regulator of Golgi trafficking
+108,cc by-nc,cc-by-nc,PMC3308871,,10.1074/jbc.M111.283689,Structural and evolutionary basis for the dual substrate selectivity of human KDM4 histone demethylase family.
+109,cc by-nc,cc-by-nc,PMC3527912,,10.1074/jbc.M112.422089,Structural and functional characterisation of the kindlin-1 pleckstrin homology domain
+110,cc by-nc,cc-by-nc,PMC3265891,,10.1074/jbc.M111.313015,Structural and kinetic evidence that catalytic reaction of human UDP-glucose 6-dehydrogenase involves covalent thiohemiacetal and thioester enzyme intermediates.
+111,cc by-nc,cc-by-nc,PMC3234852,,10.1074/jbc.M111.270751,Inhibitory member of the apoptosis-stimulating proteins of the p53 family (iASPP) interacts with protein phosphatase 1 via a noncanonical binding motif.
+112,cc by,cc-by,PMC3774408,,10.1074/jbc.M113.464651,"P2X receptor chimeras highlight roles of the amino terminus to partial agonist efficacy, the carboxyl terminus to recovery from desensitization, and independent regulation of channel transitions"
+113,cc by-nc,cc-by-nc,PMC3591641,,10.1074/jbc.M112.447524,Expanding the repertoire of amyloiod polymorphs by co-polymerization of related protein precursors
+114,cc by-nc,cc-by-nc,PMC2952269,,10.1074/jbc.M110.128256,SSS1p is required to complete protein translocon activation
+115,cc by-nc,cc-by-nc,PMC3121340,,10.1074/jbc.M111.219568,Preferential Targeting of a Signal Recognition Particle-dependent Precursor
+116,cc by,cc-by,PMC3774368,,10.1074/jbc.M112.445346,Functional properties of five Dictyostelium discoideum P2X receptors
+117,cc by,cc-by,PMC3665474,,10.1186/1471-2458-13-497,Walking and cycling to work despite reporting an unsupportive environment: insights from a mixed-method exploration of resilience
+118,cc by,cc-by,PMC3600532,,10.1111/zph.12000,Ecology of zoonotic infectious diseases in bats: current knowledge and future directions
+119,cc by,cc-by,PMC3190389,,10.1186/1743-422X-8-442,Label-free quantitative proteomics reveals regulation of interferon-induced protein with tetratricopeptide repeats 3 (IFIT3) and 5'-3'-exoribonuclease 2 (XRN2) during respiratory syncytial virus infection.
+140,cc by-nc,cc-by-nc,PMC3173209,,10.1074/jbc.M111.219212,The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+
+Row #,apc_2012_2013_results.csv Licence source,processed_apc_2012_2013.csv Licence Source,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+2,epmc_rest_api,epmc_xml,PMC3671369,,10.1057/9781137377029,"Health Economists, Tobacco Control and International Development: On the Economisation of Global Health beyond Neoliberal Structural Adjustment Policies"
+3,epmc_rest_api,epmc_xml,PMC3724273,,10.1177/0952695112468526,The pursuit of happiness: the social and scientific origins of Hans Selye’s natural philosophy of life’
+4,epmc_rest_api,epmc_xml,PMC3627513,,10.1177/0952695112470350,War on fear: Solly Zuckerman and civilian nerve in World War II
+5,unknown,,none,,10.1126/science.1228160,"High coverage of ART associated with decline in risk of HIV acquisition in rural KwaZulu-Natal, South Africa"
+6,unknown,,PMC3860268,,10.1126/science.1230413,Increase in adult life expectancy
+7,unknown,,PMC3672848,,10.4049/jimmunol.1201510,Mitochondrial superoxide generation enhances P2X7R-mediated loss of cell surface CD62L on naive human CD4+ T lymphocytes.
+8,unknown,,PMC3549224,,10.4049/jimmunol.1202438,Chronic Exposure to Plasmodium falciparum Is Associated with Phenotypic Evidence of B and T Cell Exhaustion
+9,unknown,,PMC3619528,,10.4049/jimmunol.1202611,Candida albicans primes the Toll-like receptor cytokine responses through a dectin-1/Ref-1-mediated pathway
+10,unknown,,PMC3607403,,10.4049/jimmunol.1203389,GRB2-Mediated Recruitment of THEMIS to LAT Is Essential for Thymocyte Development
+11,epmc_rest_api,epmc_xml,PMC3627511,,10.1177/0952695112471658,The invention of the psychosocial: an introduction
+12,epmc_rest_api,epmc_xml,PMC3652708,,10.1177/0952695112473619,Making the cut: the production of 'self-harm' in post-1945 Anglo-Saxon psychiatry
+13,epmc_rest_api,publisher,PMC3757918,,10.1177/0952695113484320,How autism became autism: the radical transformation of a central concept of child development in Britain
+14,unknown,publisher,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+15,epmc_rest_api,epmc_xml,PMC3865968,,10.1017/mdh.2013.63,International health and the limits of its global influence: Bhutan and the worldwide smallpox eradication
+16,epmc_xml_permissions,epmc_xml,PMC3542187,,10.1017/mdh.2013.17,The Research Council System and The Politics of Medical and Agricultural Research for the British Colonial Empire 1940-1952
+17,epmc_rest_api,epmc_xml,PMC3865946,,10.1017/mdh.2013.20,"A Textbook Pattern? Malarai Eradication and Control, Jamaica 1910-1965"
+18,epmc_xml_permissions,,PMC3483757,,10.1017/mdh.2012.30,Mrs Killer and Dr Crook: birth attendants and birth outcomes in early twentieth century Derbyshire
+19,epmc_xml_permissions,publisher,PMC3566749,,10.1017/mdh.2012.81,"I've Never Found Doctors to be a Difficult Bunch': Doctors, Managers and NHS Reorganisations in Manchester and Salford, 1948-2007"
+20,epmc_rest_api,epmc_xml,PMC3606566,,10.1107/S1744309113002352,Structure of Pseudomonas aeruginosa inosine 5'-monophosphate dehydrogenase
+21,epmc_rest_api,epmc_xml,PMC3668577,,10.1107/S174430911301292X,Structure of diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase from Acinetobacter baumannii.
+22,epmc_xml_permissions,,none,23072351,10.1021/ac302223s,Amphipathic polymers facilitate the study of functional membrane in the gas phase
+23,epmc_rest_api,epmc_xml,PMC3374517,,10.1107/S1744309112010330,Crystallization and preliminary crystallographic analysis of the major capsid proteins VP16 and VP17 of bacteriophage P23-77
+24,unknown,epmc_xml,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,unknown,epmc_xml,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,unknown,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+27,epmc_rest_api,epmc_xml,PMC3948080,23158229,10.1017/S1355617712000768,Effects of Maternal Worm Infections and Anthelminthic Treatment during Pregnancy on Infant Motor and Neurocognitive Functioning
+28,unknown,,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+29,epmc_rest_api,epmc_xml,PMC3930469,,10.1177/1363459313476966,Re-valuing donor and recipient bodies in the globalised blood economy: transitions in public policy on blood safety in the UK
+30,epmc_xml_permissions,epmc_xml,none,20146481,10.1021/jm901827x,Toward biophysical probes for the 5-HT3 receptor: structure-activity relationship study of granisetron derivatives
+31,epmc_rest_api,epmc_xml,PMC3766112,,10.1186/1756-0500-6-344,"Prevalence of schistosome antibodies and hepatosplenic signs and symptoms among patients from Kaoma, Western Province, Zambia"
+32,epmc_xml_permissions,epmc_xml,PMC3444173,,10.1037/a0027006,Investigating cognitive pathways to psychopathology: predicting depression and posttraumatic stress disorder from early responses after assault
+33,epmc_rest_api,epmc_xml,PMC3348006,,10.1186/1478-7547-10-5,Cost and cost effectiveness of long-lasting insecticide-treated bed nets - a model-based analysis
+34,epmc_rest_api,epmc_xml,PMC3744815,,10.1016/j.ejmg.2013.05.001,The internet is parents' main source of information about psychiatric manifestationsof 22q11.2 deletion syndrome
+35,epmc_rest_api,epmc_xml,PMC3750443,,10.1186/1472-6939-14-27,Taking ethical photos of children for medical and research purposes in low-resource settings: an exploratory qualitative study
+36,epmc_rest_api,epmc_xml,PMC3664635,,10.1186/1472-6963-13-195,Community groups as 'critical enablers' of the HIV response in Zimbabwe
+37,epmc_rest_api,epmc_xml,PMC3312863,,10.1186/1472-6963-12-42,The development of a lay health worker delivered collaborative community based intervention for people with schizophrenia in India
+38,epmc_rest_api,epmc_xml,PMC3765690,,10.1186/1742-6405-10-20,Collective Patient behaviours derailing ART rool-out in KwaZulu-Natal: Perspectives of Health Care Providers
+39,epmc_xml_permissions,epmc_xml,none,22879016,10.1007/978-1-4614-4989-8_10,Normobaric hyperoxia does not change optical scattering or pathlength but does increase oxidised cytochrome C oxidase concentration in patients with brain injury
+40,epmc_xml_permissions,epmc_xml,none,22879019,10.1007/978-1-4614-4989-8_13,Modelling Cerebrovascular Reactivity: A Novel Near-Infrared Biomarker of Cerebral Autoregulation?
+41,epmc_xml_permissions,epmc_xml,none,22879021,10.1007/978-1-4614-4989-8_15,Oscillations in cerebral haemodynamics in patients with falciparum malaria
+42,epmc_xml_permissions,epmc_xml,none,22879034,10.1007/978-1-4614-4989-8_28,Wavelet cross-correlation to investigate regional variations in cerebral oxygenation in infants supported on extracorporeal membrane oxygenation
+43,epmc_rest_api,epmc_xml,PMC3751770,,none,Socio-economic position and childhood multimorbidity: a study using linkage between the Avon Longitudinal Study of Parents and Children and the General Practice Research Database
+44,epmc_xml_permissions,epmc_xml,PMC3646404,,10.1021/pr400086y,Global quantitative SILAC phosphoproteomics reveals differential phosphorylation is widespread between the procyclic and bloodstream form lifecycle stages of Trypanosoma brucei.
+45,epmc_rest_api,epmc_xml,PMC3528429,,10.1186/1746-6148-8-234,"Prevalence of porcine cysticercosis and associated risk factors in Homa Bay District, Kenya"
+46,epmc_rest_api,epmc_xml,PMC3716626,,10.1186/1297-9716-44-46,Understanding foot-and-mouth disease virus transmission biology: identification of the indicators of infectiousness
+47,epmc_xml_permissions,epmc_xml,PMC3576129,,10.1037/a0031190,The nature of nuture: Disentangling passive geneotype-environment correlation from family relationship influences on children's externalising problems
+48,epmc_rest_api,epmc_xml,PMC3536734,,10.4161/chan.22153,State-independent intracellular access of quatemary ammonium blockers to the pore of TREK-1
+49,epmc_xml_permissions,epmc_xml,PMC3330789,,10.1152/ajpheart.00357.2011,Altered sinoatrial node function and intra-atrial conduction in murine gain-of-function Scn5a+/ΔKPQ hearts suggest an overlap syndrome.
+50,epmc_rest_api,epmc_xml,PMC3798815,,10.1152/japplphysiol.00777.2013,Development and validation of anthropometric prediction equation for estimation of lean body mass and appendicular lean soft tissue in Indian mean and women.
+51,epmc_rest_api,epmc_xml,PMC3571806,,10.3390/s121216695,Wearable and Implantable Sensors: The Patient's Perspective
+52,epmc_rest_api,epmc_xml,PMC3633361,,10.1093/alcalc/agt006,Post-treatment stage of change predicts 12-month outcome of treatment for alcohol problems
+54,epmc_rest_api,epmc_xml,PMC3599138,,10.1186/1471-2458-13-147,A retrospective study of Human Immunodeficincy Virus transmission mortality and loss to follow-up among infants in the first 18 months of life in prevention of mother-t-child transmission programme in an urban hospital in KwaZulu-Natal South Africa
+55,epmc_rest_api,epmc_xml,PMC3717731,,10.3390/ijerph10062185,Tobacco use and nicotine dependence among conflict-affected men in Georgia.
+56,epmc_rest_api,epmc_xml,PMC3598237,,10.1186/1476-511X-11-155,Evaluation of seven common lipid associated loci in a large indian sib pair study
+57,epmc_rest_api,epmc_xml,PMC3721994,,10.1186/1478-4491-11-34,Absenteeism amongst health workers - developing a typology to support empiric work in low-income countries and characterizing reported associations.
+58,epmc_rest_api,epmc_xml,PMC3529683,,10.1186/1478-4491-10-39,Human resources needs for universal access to antiretroviral therapy in South Africa: A time-motion study
+59,epmc_xml_permissions,epmc_xml,PMC3613719,,10.1186/1471-2458-13-152,Effectiveness of alcohol brief intervention delivered by community pharmacists: study protocol of a two-arm randomised controlled trial.
+60,epmc_rest_api,epmc_xml,PMC3533981,,10.1186/1471-2458-12-991,Geographical access to care at birth n Ghana: a barrier to safe motherhood
+61,epmc_rest_api,epmc_xml,PMC3637528,,10.1186/1471-2458-13-354,The role of community conversations in facilitating local HIV competence: Case study from rural Zimbabwe
+62,epmc_rest_api,epmc_xml,PMC3664085,,10.1186/1471-2458-13-490,"Evidence of improving antiretroviral therapy treatment delays: an analysis of eight years of programmatic outcomes in Blantyre, Malawi"
+63,epmc_rest_api,epmc_xml,PMC3735389,,10.1186/1471-2458-13-706,Association between legume intake and self-reported diabetes among adult men and women in India.
+64,epmc_rest_api,epmc_xml,PMC3844357,,10.1186/1471-2458-13-769,Education is associated with lower levels of abdominal obesity in women with a non-agricultural occupation: an interaction study using China's Four Provinces survey
+65,epmc_rest_api,epmc_xml,PMC3844310,,10.1186/1471-2458-13-802,Do accurate HIV and antiretroviral therapy knowledge and previous testing experiences increase the uptake o ....
+66,epmc_rest_api,epmc_xml,none,24456668,10.1186/1471-2458-13-949,Alcohol assessment and feedback by e-mail for university student hazardous and harmful drinkers: study protocol for the AMADEUS-2 randomised controlled trials.
+67,epmc_xml_permissions,,none,23668184,10.1037/a0032570,Asymmetry in the Discrimination of Length During Spatial Learning
+68,epmc_rest_api,epmc_xml,PMC3637551,,10.1186/1471-2458-13-342,Social acceptability and perceived impact of a community-led cash transfer programme in Zimbabwe
+69,epmc_rest_api,epmc_xml,PMC3570447,,10.1186/1471-2458-12-980,Tuberculosis and poverty: the contribution of patients costs in sub-Saharan Africa - a systematic review
+70,epmc_rest_api,epmc_xml,PMC3599138,,10.1186/1471-2458-13-147,Maternal HIV disclosure to HIV- uninfected children in rural South Africa: a pilot study of family-based intervention
+71,epmc_rest_api,epmc_xml,PMC3651303,,10.1186/1471-2458-13-397,Older HIV-infected individuals present late and have a higher mortality: Brighton UK cohort study
+72,epmc_rest_api,epmc_xml,PMC3846679,,10.1186/1471-2458-13-817,Intimate partner violence against women during and after pregnancy: a cross-sectional study in Mumbai slums
+73,epmc_rest_api,epmc_xml,PMC3848687,,10.1186/1471-2458-13-835,The effectiveness of mental health promotion interventions for young people in low and middle income countries: a systematic review.
+74,unknown,,PMC3673232,,10.2105/AJPH.2012.300939,Health co-benefits and transportation-related reductions in greenhouse gas emissions in the San Francisco bay area
+75,epmc_rest_api,epmc_xml,PMC3397896,,10.1074/jbc.M112.377101,Annexin A1 Interaction with the FPR2/ALX Receptor
+76,epmc_rest_api,epmc_xml,PMC3642319,,10.1074/jbc.M112.419911,Biochemical and immunological characterisation of Toxoplasma gondii macrophage migration inhibitory factor
+77,epmc_rest_api,epmc_xml,PMC3137072,,10.1074/jbc.M111.242263,"Characterisation of GAS2-like 3, a new microtubule and actin-binding protein related to spectraplakins"
+78,epmc_rest_api,epmc_xml,PMC3522295,,10.1074/jbc.M112.386938,Constitutional mutations in RTEL1 cause severe dyskeratosis congenita
+79,epmc_rest_api,epmc_xml,PMC3751660,,10.1186/1471-2458-13-757,Implementation of an educational intervention to improve hand washing in primary schools: process evaluation within a randomised controlled trial
+80,epmc_rest_api,epmc_xml,PMC3581401,,10.1074/jbc.M112.416347,Molecular Architecture of a Complex between an Adhesion Protein from the Malaria Parasite and Intracellular Adhesion Molecule 1
+81,epmc_rest_api,epmc_xml,PMC3789947,,10.1074/jbc.M113.497149,Mechanism for Recognition of an Unusual Mycobacterial Glycolipid
+82,epmc_rest_api,epmc_xml,PMC3711325,,10.1074/jbc.M113.479642,Glycoprotein biosynthesis in a eukaryote lacking the membrane protein rft1
+83,epmc_rest_api,epmc_xml,PMC3642348,,10.1074/jbc.M112.414367,Human and viral golgi anti-apoptotic protein (GAAP) oligomerize via different mechanisms and monomeric GAAP inhibits apoptosis and modulates calcium
+84,epmc_rest_api,epmc_xml,PMC3561585,,10.1074/jbc.M112.415372,Distinct roles in autophagy and importance in infectivity of the two ATG4 cysteine peptidases of Leishmania major
+85,epmc_rest_api,epmc_xml,PMC3682533,,10.1074/jbc.M113.455337,Defining the molecular basis for the first potent and selective orthosteric agonists of the FFA2 free fatty acid receptor
+86,epmc_rest_api,epmc_xml,PMC3493908,,10.1074/jbc.M112.373969,Dynamic exchange of myosin VI on endocytic structures
+87,epmc_rest_api,epmc_xml,PMC3531760,,10.1074/jbc.M112.422402,Contrasting Effects of a-synuclein and y-synuclein on the Phenotype of Cysteine String Protein alpha (CSPa) Null Mutant Mice Suggest Distinct Function of these Proteins in Neuronal Synapses
+88,epmc_rest_api,epmc_xml,PMC3436574,,10.1074/jbc.M112.381541,Structural Requirements for Recognition of Major Histocompatibility Complex Class II by Membrane-associated RING-CH (MARCH) Protein E3 Ligases
+89,epmc_rest_api,epmc_xml,PMC3516716,,10.1074/jbc.M112.405407,"Novel keto-phospholipids are generated by monocytes and macrophages. Detected in Cystic Fibrosis, and activate peroxisome proliferator-activated receptor-? (Manuscript #M405409)"
+90,epmc_rest_api,epmc_xml,PMC3795252,,10.1074/jbc.M112.424846,SLP-76 sterile alpha motif (SAM) and individual H alpha helix mediates oligomer formation for microclusters and T-cell activation
+91,epmc_rest_api,epmc_xml,PMC3663556,,10.1074/jbc.M112.427765,Endomembrane HRas controls vascular endothelial growth factor-induced nitric oxide synthase-mediated endothelial cell migration
+92,epmc_rest_api,epmc_xml,PMC3757190,,10.1074/jbc.M113.492017,Fused in Sarcoma (FUS) Protein Lacking Nuclear Localization Signal (NLS) and Major RNA Binding Motifs Triggers Proteinopathy
+93,epmc_rest_api,epmc_xml,PMC3581394,,10.1074/jbc.M112.423012,Immobilization of Heparan Sulfate on Electrospun Meshes to Support Embryonic Stem Cell Culture and Differentiation
+94,epmc_rest_api,epmc_xml,PMC2757965,,10.1074/jbc.M109.030338,Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling
+95,epmc_rest_api,epmc_xml,PMC2962504,,10.1074/jbc.M110.154443,Structural and Functional Investigations of Matrilin-1 A-domains Reveal Insights into Their Role in Cartilage ECM Assembly
+96,epmc_rest_api,epmc_xml,PMC3268392,,10.1074/jbc.M111.306563,Photoaffinity labelling of high affinity nicotinic acid adenine dinucleotide 2'-phosphate (NAADP) proteins in sea urchin egg
+97,epmc_rest_api,epmc_xml,PMC3554938,,10.1074/jbc.M112.422238,Deubiquitinases regulate the activity of caspase-1 and IL-1β secretion via assembly of the inflammasome
+98,epmc_rest_api,epmc_xml,PMC3234717,,10.1074/jbc.M111.272419,Methionine Oxidation of Sup35 Protein Induces Formation of the [PSI+] Prion in a Yeast Peroxiredoxin Mutant
+99,epmc_rest_api,epmc_xml,PMC3591638,,10.1074/jbc.M112.428854,Molecular Basis for Jagged-1 Serrate
+100,epmc_rest_api,epmc_xml,PMC3696646,,10.1074/jbc.M113.463372,Comparative Proteomic Analysis of Supportive and Unsupportive Extracellular Matrix Substrates for Human Embryonic Stem Cell Maintenance.
+101,epmc_rest_api,epmc_xml,PMC3234811,,10.1074/jbc.M111.289777,Picomolar nitric oxide signals from central neurons recorded using ultrasensitive detector cells
+102,epmc_rest_api,epmc_xml,PMC3772201,,10.1074/jbc.M113.485409,Galactose 6-o-sulfotransferases are not required for the generation of siglec-f ligands in leukocytes or lung tissue.
+103,epmc_rest_api,epmc_xml,PMC3682544,,10.1074/jbc.M113.469841,STRUCTURAL ANALYSIS OF COLLAGEN TYPE I INTERACTIONS WITH HUMAN FIBRONECTIN REVEALS A COOPERATIVE BONDING MODE
+104,epmc_rest_api,epmc_xml,PMC3663545,,10.1074/jbc.M113.461137,Allosteric activation of trypanosomatid deoxyhypusine synthase by a catalytically dead paralog
+105,epmc_rest_api,epmc_xml,PMC3597819,,10.1074/jbc.M112.437996,Structural Basis for Cul3 Protein Assembly with the BTB-Kelch Family of E3 Ubiquitin Ligases
+106,epmc_rest_api,epmc_xml,PMC3431625,,10.1074/jbc.M111.331157,Opticin Exerts Its Anti-Angiogenic Activity by Regulating Extracellular Matrix Adhesiveness
+107,epmc_rest_api,epmc_xml,PMC3488092,,10.1074/jbc.M112.402289,Solution NMR Structure of the Ca2+- Bound N-Terminal Domain of Calcium Binding Protein 7 (CaBP7): A regulator of Golgi trafficking
+108,epmc_rest_api,epmc_xml,PMC3308871,,10.1074/jbc.M111.283689,Structural and evolutionary basis for the dual substrate selectivity of human KDM4 histone demethylase family.
+109,epmc_rest_api,epmc_xml,PMC3527912,,10.1074/jbc.M112.422089,Structural and functional characterisation of the kindlin-1 pleckstrin homology domain
+110,epmc_rest_api,epmc_xml,PMC3265891,,10.1074/jbc.M111.313015,Structural and kinetic evidence that catalytic reaction of human UDP-glucose 6-dehydrogenase involves covalent thiohemiacetal and thioester enzyme intermediates.
+111,epmc_rest_api,epmc_xml,PMC3234852,,10.1074/jbc.M111.270751,Inhibitory member of the apoptosis-stimulating proteins of the p53 family (iASPP) interacts with protein phosphatase 1 via a noncanonical binding motif.
+112,epmc_rest_api,epmc_xml,PMC3774408,,10.1074/jbc.M113.464651,"P2X receptor chimeras highlight roles of the amino terminus to partial agonist efficacy, the carboxyl terminus to recovery from desensitization, and independent regulation of channel transitions"
+113,epmc_rest_api,epmc_xml,PMC3591641,,10.1074/jbc.M112.447524,Expanding the repertoire of amyloiod polymorphs by co-polymerization of related protein precursors
+114,epmc_rest_api,epmc_xml,PMC2952269,,10.1074/jbc.M110.128256,SSS1p is required to complete protein translocon activation
+115,epmc_rest_api,epmc_xml,PMC3121340,,10.1074/jbc.M111.219568,Preferential Targeting of a Signal Recognition Particle-dependent Precursor
+116,epmc_rest_api,epmc_xml,PMC3774368,,10.1074/jbc.M112.445346,Functional properties of five Dictyostelium discoideum P2X receptors
+117,epmc_rest_api,epmc_xml,PMC3665474,,10.1186/1471-2458-13-497,Walking and cycling to work despite reporting an unsupportive environment: insights from a mixed-method exploration of resilience
+118,epmc_rest_api,epmc_xml,PMC3600532,,10.1111/zph.12000,Ecology of zoonotic infectious diseases in bats: current knowledge and future directions
+119,epmc_rest_api,epmc_xml,PMC3190389,,10.1186/1743-422X-8-442,Label-free quantitative proteomics reveals regulation of interferon-induced protein with tetratricopeptide repeats 3 (IFIT3) and 5'-3'-exoribonuclease 2 (XRN2) during respiratory syncytial virus infection.
+140,epmc_rest_api,epmc_xml,PMC3173209,,10.1074/jbc.M111.219212,The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+201,unknown,,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+202,unknown,,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+1854,unknown,,none,23873369,10.1387/ijdb.130046jw,The Dictyostelium prestalk inducer DIF-1 directs phosphorylation of a bZIP transcription factor.
+
+Row #,apc_2012_2013_results.csv Journal Type,processed_apc_2012_2013.csv Journal Type,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+26,hybrid,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+55,hybrid,oa,PMC3717731,,10.3390/ijerph10062185,Tobacco use and nicotine dependence among conflict-affected men in Georgia.
+202,hybrid,,none,24524173,none,Parasite lost - remembering modern times with Kenyan government medical scientists.
+
+Row #,apc_2012_2013_results.csv Correct Article Confidence,processed_apc_2012_2013.csv Correct Article Confidence,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+14,1,0.9,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+24,1,0.7,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,1,0.9,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+26,1,,none,,10.1017/S0001972013000478,Tarmacking in the milleninum city: spatial and temporal tralectories of empowerment in Kenya.
+28,1,0.9,none,none,10.1017/S0007087413000332,"Writing, printing, speaking: Rhesus blood-group genetics and nomenclatures in the mid-twentieth century"
+201,1,0.9,,,,The Therapeutic Potential of Allosteric Ligands for Free Fatty Acid Sensitive GPCRs
+
+Row #,apc_2012_2013_results.csv Standard Compliance?,processed_apc_2012_2013.csv Standard Compliance?,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+3,TRUE,False,PMC3724273,,10.1177/0952695112468526,The pursuit of happiness: the social and scientific origins of Hans Selye’s natural philosophy of life’
+5,TRUE,False,none,,10.1126/science.1228160,"High coverage of ART associated with decline in risk of HIV acquisition in rural KwaZulu-Natal, South Africa"
+6,TRUE,False,PMC3860268,,10.1126/science.1230413,Increase in adult life expectancy
+7,TRUE,False,PMC3672848,,10.4049/jimmunol.1201510,Mitochondrial superoxide generation enhances P2X7R-mediated loss of cell surface CD62L on naive human CD4+ T lymphocytes.
+13,TRUE,False,PMC3757918,,10.1177/0952695113484320,How autism became autism: the radical transformation of a central concept of child development in Britain
+14,FALSE,True,not available,,10.1177/0265691413479085,Images and Meaning - Making in a World of Resemblance: The Bavarian-Saxon Kidney Stone Affair of 1580.
+19,FALSE,True,PMC3566749,,10.1017/mdh.2012.81,"I've Never Found Doctors to be a Difficult Bunch': Doctors, Managers and NHS Reorganisations in Manchester and Salford, 1948-2007"
+24,FALSE,True,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,FALSE,True,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+27,TRUE,False,PMC3948080,23158229,10.1017/S1355617712000768,Effects of Maternal Worm Infections and Anthelminthic Treatment during Pregnancy on Infant Motor and Neurocognitive Functioning
+30,FALSE,True,none,20146481,10.1021/jm901827x,Toward biophysical probes for the 5-HT3 receptor: structure-activity relationship study of granisetron derivatives
+48,TRUE,False,PMC3536734,,10.4161/chan.22153,State-independent intracellular access of quatemary ammonium blockers to the pore of TREK-1
+52,TRUE,False,PMC3633361,,10.1093/alcalc/agt006,Post-treatment stage of change predicts 12-month outcome of treatment for alcohol problems
+75,TRUE,False,PMC3397896,,10.1074/jbc.M112.377101,Annexin A1 Interaction with the FPR2/ALX Receptor
+77,TRUE,False,PMC3137072,,10.1074/jbc.M111.242263,"Characterisation of GAS2-like 3, a new microtubule and actin-binding protein related to spectraplakins"
+78,TRUE,False,PMC3522295,,10.1074/jbc.M112.386938,Constitutional mutations in RTEL1 cause severe dyskeratosis congenita
+80,TRUE,False,PMC3581401,,10.1074/jbc.M112.416347,Molecular Architecture of a Complex between an Adhesion Protein from the Malaria Parasite and Intracellular Adhesion Molecule 1
+84,TRUE,False,PMC3561585,,10.1074/jbc.M112.415372,Distinct roles in autophagy and importance in infectivity of the two ATG4 cysteine peptidases of Leishmania major
+86,TRUE,False,PMC3493908,,10.1074/jbc.M112.373969,Dynamic exchange of myosin VI on endocytic structures
+87,TRUE,False,PMC3531760,,10.1074/jbc.M112.422402,Contrasting Effects of a-synuclein and y-synuclein on the Phenotype of Cysteine String Protein alpha (CSPa) Null Mutant Mice Suggest Distinct Function of these Proteins in Neuronal Synapses
+88,TRUE,False,PMC3436574,,10.1074/jbc.M112.381541,Structural Requirements for Recognition of Major Histocompatibility Complex Class II by Membrane-associated RING-CH (MARCH) Protein E3 Ligases
+89,TRUE,False,PMC3516716,,10.1074/jbc.M112.405407,"Novel keto-phospholipids are generated by monocytes and macrophages. Detected in Cystic Fibrosis, and activate peroxisome proliferator-activated receptor-? (Manuscript #M405409)"
+93,TRUE,False,PMC3581394,,10.1074/jbc.M112.423012,Immobilization of Heparan Sulfate on Electrospun Meshes to Support Embryonic Stem Cell Culture and Differentiation
+94,TRUE,False,PMC2757965,,10.1074/jbc.M109.030338,Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling
+95,TRUE,False,PMC2962504,,10.1074/jbc.M110.154443,Structural and Functional Investigations of Matrilin-1 A-domains Reveal Insights into Their Role in Cartilage ECM Assembly
+96,TRUE,False,PMC3268392,,10.1074/jbc.M111.306563,Photoaffinity labelling of high affinity nicotinic acid adenine dinucleotide 2'-phosphate (NAADP) proteins in sea urchin egg
+97,TRUE,False,PMC3554938,,10.1074/jbc.M112.422238,Deubiquitinases regulate the activity of caspase-1 and IL-1β secretion via assembly of the inflammasome
+98,TRUE,False,PMC3234717,,10.1074/jbc.M111.272419,Methionine Oxidation of Sup35 Protein Induces Formation of the [PSI+] Prion in a Yeast Peroxiredoxin Mutant
+99,TRUE,False,PMC3591638,,10.1074/jbc.M112.428854,Molecular Basis for Jagged-1 Serrate
+101,TRUE,False,PMC3234811,,10.1074/jbc.M111.289777,Picomolar nitric oxide signals from central neurons recorded using ultrasensitive detector cells
+105,TRUE,False,PMC3597819,,10.1074/jbc.M112.437996,Structural Basis for Cul3 Protein Assembly with the BTB-Kelch Family of E3 Ubiquitin Ligases
+106,TRUE,False,PMC3431625,,10.1074/jbc.M111.331157,Opticin Exerts Its Anti-Angiogenic Activity by Regulating Extracellular Matrix Adhesiveness
+107,TRUE,False,PMC3488092,,10.1074/jbc.M112.402289,Solution NMR Structure of the Ca2+- Bound N-Terminal Domain of Calcium Binding Protein 7 (CaBP7): A regulator of Golgi trafficking
+108,TRUE,False,PMC3308871,,10.1074/jbc.M111.283689,Structural and evolutionary basis for the dual substrate selectivity of human KDM4 histone demethylase family.
+109,TRUE,False,PMC3527912,,10.1074/jbc.M112.422089,Structural and functional characterisation of the kindlin-1 pleckstrin homology domain
+110,TRUE,False,PMC3265891,,10.1074/jbc.M111.313015,Structural and kinetic evidence that catalytic reaction of human UDP-glucose 6-dehydrogenase involves covalent thiohemiacetal and thioester enzyme intermediates.
+111,TRUE,False,PMC3234852,,10.1074/jbc.M111.270751,Inhibitory member of the apoptosis-stimulating proteins of the p53 family (iASPP) interacts with protein phosphatase 1 via a noncanonical binding motif.
+113,TRUE,False,PMC3591641,,10.1074/jbc.M112.447524,Expanding the repertoire of amyloiod polymorphs by co-polymerization of related protein precursors
+114,TRUE,False,PMC2952269,,10.1074/jbc.M110.128256,SSS1p is required to complete protein translocon activation
+115,TRUE,False,PMC3121340,,10.1074/jbc.M111.219568,Preferential Targeting of a Signal Recognition Particle-dependent Precursor
+140,TRUE,False,PMC3173209,,10.1074/jbc.M111.219212,The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+
+Row #,apc_2012_2013_results.csv Deluxe Compliance?,processed_apc_2012_2013.csv Deluxe Compliance?,apc_2012_2013.csv PMCID,apc_2012_2013.csv PMID,apc_2012_2013.csv DOI,apc_2012_2013.csv Article title
+3,TRUE,False,PMC3724273,,10.1177/0952695112468526,The pursuit of happiness: the social and scientific origins of Hans Selye’s natural philosophy of life’
+5,TRUE,False,none,,10.1126/science.1228160,"High coverage of ART associated with decline in risk of HIV acquisition in rural KwaZulu-Natal, South Africa"
+6,TRUE,False,PMC3860268,,10.1126/science.1230413,Increase in adult life expectancy
+7,TRUE,False,PMC3672848,,10.4049/jimmunol.1201510,Mitochondrial superoxide generation enhances P2X7R-mediated loss of cell surface CD62L on naive human CD4+ T lymphocytes.
+13,TRUE,False,PMC3757918,,10.1177/0952695113484320,How autism became autism: the radical transformation of a central concept of child development in Britain
+24,FALSE,True,none,,10.1017/S0001972013000442,"Stuck in ruins, or up and coming?"
+25,FALSE,True,none,,10.1017/S0001972013000454,"Pharmacy, money and public health in Dakar."
+27,TRUE,False,PMC3948080,23158229,10.1017/S1355617712000768,Effects of Maternal Worm Infections and Anthelminthic Treatment during Pregnancy on Infant Motor and Neurocognitive Functioning
+30,FALSE,True,none,20146481,10.1021/jm901827x,Toward biophysical probes for the 5-HT3 receptor: structure-activity relationship study of granisetron derivatives
+48,TRUE,False,PMC3536734,,10.4161/chan.22153,State-independent intracellular access of quatemary ammonium blockers to the pore of TREK-1
+52,TRUE,False,PMC3633361,,10.1093/alcalc/agt006,Post-treatment stage of change predicts 12-month outcome of treatment for alcohol problems
+75,TRUE,False,PMC3397896,,10.1074/jbc.M112.377101,Annexin A1 Interaction with the FPR2/ALX Receptor
+77,TRUE,False,PMC3137072,,10.1074/jbc.M111.242263,"Characterisation of GAS2-like 3, a new microtubule and actin-binding protein related to spectraplakins"
+78,TRUE,False,PMC3522295,,10.1074/jbc.M112.386938,Constitutional mutations in RTEL1 cause severe dyskeratosis congenita
+80,TRUE,False,PMC3581401,,10.1074/jbc.M112.416347,Molecular Architecture of a Complex between an Adhesion Protein from the Malaria Parasite and Intracellular Adhesion Molecule 1
+84,TRUE,False,PMC3561585,,10.1074/jbc.M112.415372,Distinct roles in autophagy and importance in infectivity of the two ATG4 cysteine peptidases of Leishmania major
+86,TRUE,False,PMC3493908,,10.1074/jbc.M112.373969,Dynamic exchange of myosin VI on endocytic structures
+87,TRUE,False,PMC3531760,,10.1074/jbc.M112.422402,Contrasting Effects of a-synuclein and y-synuclein on the Phenotype of Cysteine String Protein alpha (CSPa) Null Mutant Mice Suggest Distinct Function of these Proteins in Neuronal Synapses
+88,TRUE,False,PMC3436574,,10.1074/jbc.M112.381541,Structural Requirements for Recognition of Major Histocompatibility Complex Class II by Membrane-associated RING-CH (MARCH) Protein E3 Ligases
+89,TRUE,False,PMC3516716,,10.1074/jbc.M112.405407,"Novel keto-phospholipids are generated by monocytes and macrophages. Detected in Cystic Fibrosis, and activate peroxisome proliferator-activated receptor-? (Manuscript #M405409)"
+93,TRUE,False,PMC3581394,,10.1074/jbc.M112.423012,Immobilization of Heparan Sulfate on Electrospun Meshes to Support Embryonic Stem Cell Culture and Differentiation
+94,TRUE,False,PMC2757965,,10.1074/jbc.M109.030338,Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling
+95,TRUE,False,PMC2962504,,10.1074/jbc.M110.154443,Structural and Functional Investigations of Matrilin-1 A-domains Reveal Insights into Their Role in Cartilage ECM Assembly
+96,TRUE,False,PMC3268392,,10.1074/jbc.M111.306563,Photoaffinity labelling of high affinity nicotinic acid adenine dinucleotide 2'-phosphate (NAADP) proteins in sea urchin egg
+97,TRUE,False,PMC3554938,,10.1074/jbc.M112.422238,Deubiquitinases regulate the activity of caspase-1 and IL-1β secretion via assembly of the inflammasome
+98,TRUE,False,PMC3234717,,10.1074/jbc.M111.272419,Methionine Oxidation of Sup35 Protein Induces Formation of the [PSI+] Prion in a Yeast Peroxiredoxin Mutant
+99,TRUE,False,PMC3591638,,10.1074/jbc.M112.428854,Molecular Basis for Jagged-1 Serrate
+101,TRUE,False,PMC3234811,,10.1074/jbc.M111.289777,Picomolar nitric oxide signals from central neurons recorded using ultrasensitive detector cells
+105,TRUE,False,PMC3597819,,10.1074/jbc.M112.437996,Structural Basis for Cul3 Protein Assembly with the BTB-Kelch Family of E3 Ubiquitin Ligases
+106,TRUE,False,PMC3431625,,10.1074/jbc.M111.331157,Opticin Exerts Its Anti-Angiogenic Activity by Regulating Extracellular Matrix Adhesiveness
+107,TRUE,False,PMC3488092,,10.1074/jbc.M112.402289,Solution NMR Structure of the Ca2+- Bound N-Terminal Domain of Calcium Binding Protein 7 (CaBP7): A regulator of Golgi trafficking
+108,TRUE,False,PMC3308871,,10.1074/jbc.M111.283689,Structural and evolutionary basis for the dual substrate selectivity of human KDM4 histone demethylase family.
+109,TRUE,False,PMC3527912,,10.1074/jbc.M112.422089,Structural and functional characterisation of the kindlin-1 pleckstrin homology domain
+110,TRUE,False,PMC3265891,,10.1074/jbc.M111.313015,Structural and kinetic evidence that catalytic reaction of human UDP-glucose 6-dehydrogenase involves covalent thiohemiacetal and thioester enzyme intermediates.
+111,TRUE,False,PMC3234852,,10.1074/jbc.M111.270751,Inhibitory member of the apoptosis-stimulating proteins of the p53 family (iASPP) interacts with protein phosphatase 1 via a noncanonical binding motif.
+113,TRUE,False,PMC3591641,,10.1074/jbc.M112.447524,Expanding the repertoire of amyloiod polymorphs by co-polymerization of related protein precursors
+114,TRUE,False,PMC2952269,,10.1074/jbc.M110.128256,SSS1p is required to complete protein translocon activation
+115,TRUE,False,PMC3121340,,10.1074/jbc.M111.219568,Preferential Targeting of a Signal Recognition Particle-dependent Precursor
+140,TRUE,False,PMC3173209,,10.1074/jbc.M111.219212,The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+
