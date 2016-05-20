@@ -39,4 +39,4 @@ The script supports one config option at the moment, WHITELIST_COLUMNS. If it's 
 
 You can set settings for all files in settings.json in the directory of the script.
 
-More usefully, you can set per-csv settings by saving them as <original_filename>.json . So if comparing `1.csv` to `2.csv` with `--original-file apc_2012_2013.csv`, you could write a specific whitelist in `apc_2012_2013.csv.json` in the script's directory. That particular whitelist is actually provided.
+More usefully, you can set per-csv settings by saving them as [original_filename].json . So if comparing `1.csv` to `2.csv` with `--original-file apc_2012_2013.csv`, you could write a specific whitelist in `apc_2012_2013.csv.json` in the script's directory. That particular whitelist is actually provided.
