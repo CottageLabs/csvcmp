@@ -14,19 +14,6 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(levelname)s :: %(
 
 DEFAULT_RESULTS_FILENAME = '{}_comparison_{}.csv'
 
-EXPECTED_HEADER_DIFFERENCES_RAW = [
-    # you can add more than 2 variations in the sets below. 1 set = 1 column.
-    {'AAM?', 'Author Manuscript?'},
-    {'Licence Source', 'Licence source'}
-]
-
-EXPECTED_HEADER_DIFFERENCES = {}
-for column_variations in EXPECTED_HEADER_DIFFERENCES_RAW:
-    for variant in column_variations:
-        other_variants = column_variations.copy()
-        other_variants.remove(variant)
-        EXPECTED_HEADER_DIFFERENCES[variant] = tuple(other_variants)
-
 
 def load_unicode(filename):
     with codecs.open(filename, 'rb', encoding='utf-8') as f:
@@ -118,6 +105,7 @@ def savecsv(filename, list_of_lists):
 def normalise(val):
     return val.strip().lower()
 
+
 def pmcid_cmp(a_val, b_val):
     n_a_val = normalise(a_val)
     n_b_val = normalise(b_val)
@@ -129,12 +117,14 @@ def pmcid_cmp(a_val, b_val):
 
 CMP_TRANSFORMS = {}
 
+
 def cmpcell(cell_num, a_val, b_val):
 
     if cell_num in CMP_TRANSFORMS:
         return CMP_TRANSFORMS[cell_num](a_val, b_val)
     else:
         return normalise(a_val) == normalise(b_val)
+
 
 def delete_column(csv_contents, col):
     """
@@ -156,6 +146,7 @@ def delete_column(csv_contents, col):
         if colindex > len(row):
             raise ValueError("Cannot delete cell {} from CSV, found a row which is not long enough. Either the CSV is not rectangular (rows have an inconsistent length) or you requested deleting a column which does not exist. Call stack: \n\n {}".format(colindex, traceback.format_exc()))
         row.pop(colindex)
+
 
 def main(argv):
     parser = argparse.ArgumentParser()
@@ -200,6 +191,22 @@ def main(argv):
             raise ValueError(
                 "settings.json exists, but contains invalid JSON. "
                 "Remove the file or fix it before running again.")
+
+    if 'EXPECTED_HEADER_DIFFERENCES_RAW' in config:
+        expected_header_differences_raw = config['EXPECTED_HEADER_DIFFERENCES_RAW']
+    else:
+        expected_header_differences_raw = []
+
+    print expected_header_differences_raw
+
+    expected_header_differences = {}
+    for column_variations in expected_header_differences_raw:
+        for variant in column_variations:
+            other_variants = column_variations[:]
+            other_variants.remove(variant)
+            expected_header_differences[variant] = tuple(other_variants)
+
+    print expected_header_differences
 
     results = []
 
@@ -264,9 +271,9 @@ def main(argv):
             for col in header_row_1:
                 colindex = header_row_1.index(col)
     
-                if col in EXPECTED_HEADER_DIFFERENCES:
+                if col in expected_header_differences:
                     corresponding_col_check = header_row_2[colindex]
-                    if corresponding_col_check in EXPECTED_HEADER_DIFFERENCES[col]:
+                    if corresponding_col_check in expected_header_differences[col]:
                         logging.debug("Column '{}' at position {} in {} within expected parameters, moving on."
                                       .format(col, colindex + 1, filename_1))
                         continue
@@ -282,7 +289,7 @@ def main(argv):
 
         a_remaining_cols = a_header_row[:]
         b_remaining_cols = b_header_row[:]
-        for col in EXPECTED_HEADER_DIFFERENCES.keys():
+        for col in expected_header_differences.keys():
             if col in a_remaining_cols: a_remaining_cols.remove(col)
             if col in b_remaining_cols: b_remaining_cols.remove(col)
 
@@ -291,7 +298,7 @@ def main(argv):
             logging.debug('{} header: {}'.format(b_filename, b_header_row))
             logging.debug('{} remaining columns to check: {}'.format(a_filename, a_remaining_cols))
             logging.debug('{} remaining columns to check: {}'.format(b_filename, b_remaining_cols))
-            raise ValueError('Different number of remaining columns to check. Double check the list of alternative column names in EXPECTED_HEADER_DIFFERENCES, or check your CSV headers.')
+            raise ValueError('Different number of remaining columns to check. Double check the list of alternative column names in expected_header_differences, or check your CSV headers.')
 
         for i in range(0, len(a_remaining_cols)):
             a_header = a_remaining_cols[i]
