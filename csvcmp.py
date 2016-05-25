@@ -197,16 +197,12 @@ def main(argv):
     else:
         expected_header_differences_raw = []
 
-    print expected_header_differences_raw
-
     expected_header_differences = {}
     for column_variations in expected_header_differences_raw:
         for variant in column_variations:
             other_variants = column_variations[:]
             other_variants.remove(variant)
             expected_header_differences[variant] = tuple(other_variants)
-
-    print expected_header_differences
 
     results = []
 
@@ -358,8 +354,8 @@ def main(argv):
     suspicious_fn = '{}_suspicious_{}.csv'.format(a_filename, b_filename)
     if len(suspicious) > 1:  # there's a header row already
         if len(suspicious) < 50:
-            print 'These records are suspicious: all identifiers on the same row did not match across the two sheets. So a (potentially) different article was on the same row in the two sheets.'
-            print json.dumps(suspicious, indent=2)
+            logger.info('These records are suspicious: all identifiers on the same row did not match across the two sheets. So a (potentially) different article was on the same row in the two sheets.')
+            logger.info(json.dumps(suspicious, indent=2))
         savecsv(suspicious_fn, suspicious)
         logging.info('Saved suspicious records to {}'.format(suspicious_fn))
 
